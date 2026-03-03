@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Finances",
+      "path": "1-Projects/Family/Finances.md"
+    },
+    {
+      "basename": "Expenses Sheet",
+      "path": "1-Projects/Family/Utah Trip/Expenses Sheet.md"
+    },
+    {
+      "basename": "Estate Planning",
+      "path": "1-Projects/Family/Estate Planning.md"
+    },
+    {
+      "basename": "Itinerary",
+      "path": "1-Projects/Family/Utah Trip/Itinerary.md"
+    },
+    {
+      "basename": "Key Contacts",
+      "path": "1-Projects/Family/Utah Trip/Key Contacts.md"
+    },
+    {
+      "basename": "To-do list",
+      "path": "1-Projects/Family/Utah Trip/To-do list.md"
+    },
+    {
+      "basename": "Pipeline-history",
+      "path": "Pipeline-history.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
