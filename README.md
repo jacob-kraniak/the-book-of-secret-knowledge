@@ -1,6 +1,21 @@
-"I have forked this repo in an effort to revitalize and contribute. Upstream repo appears inactive, with over 100+ Pull Requests. I have contacted @trimstray directly and will revert to maintaining the original Repo if they wish.`
+## Active Development Branch: JK_Revisions
 
-Until then, I will do my best to clean up and revise this forked repo. Any contributions appreciated!" - @jacob-kraniak
+**This branch is under heavy revision — do not merge to main yet.**
+
+- All recent work (since fork on 2026-03-03) is by @jacob-kraniak
+- 20+ personal commits focused on:
+  - Structural refactor: monolithic README → modular `/docs/*.md` files
+  - Obsidian vault integration (backups, .gitignore exclusions)
+  - Repo quality: markdownlint setup, GitHub Actions linting/labeling
+  - Initial cleanup: replaced broken links with status codes
+  - Placeholders for future cybersecurity certification additions
+- Upstream history (pre-2026 commits) remains from original trimstray repo for credit & context
+
+**See only my changes:**
+- [Commits by me on this branch](https://github.com/jacob-kraniak/the-book-of-secret-knowledge/commits/JK_Revisions?author=jacob-kraniak)
+- [Full branch compare (if main diverges later)](https://github.com/jacob-kraniak/the-book-of-secret-knowledge/compare/main...JK_Revisions)
+
+When ready: Plan to squash-merge or rebase + clean history into main.
 
 --------------------------
 
