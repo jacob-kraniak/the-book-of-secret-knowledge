@@ -4,12 +4,6 @@ Until then, I will do my best to clean up and revise this forked repo. Any contr
 
 --------------------------
 
-<p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
-  </a>
-</p>
-
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
@@ -27,39 +21,6 @@ Until then, I will do my best to clean up and revise this forked repo. Any contr
 
 <br>
 
-****
-
-## :notebook_with_decorative_cover: &nbsp;What is it?
-
-This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
-
-## :restroom: &nbsp;For whom?
-
-For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
-
-## :information_source: &nbsp;Contributing
-
-If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
-
-A few simple rules for this project:
-
-- inviting and clear
-- not tiring
-- useful
-
-These below rules may be better:
-
-- easy to contribute to (Markdown + HTML ...)
-- easy to find (simple TOC, maybe it's worth extending them?)
-
-Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
-
-Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
-
-```diff
-+ This repository is not meant to contain everything but only good quality stuff.
-```
-
 All **suggestions/PR** are welcome!
 
 ### Code Contributors
@@ -74,36 +35,39 @@ This project exists thanks to all the people who contribute.
 
 ## :newspaper: &nbsp;RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/jacob-kraniak/the-book-of-secret-knowledge/commits.atom) feed of the commits. This may be useful if you'd like to be kept informed of changes.
 
-## :ballot_box_with_check: &nbsp;ToDo
+## &nbsp;Table of Contents
 
-- [ ] Add new stuff...
-- [ ] Add useful shell functions
-- [ ] Add one-liners for collection tools (eg. CLI Tools)
-- [ ] Sort order in lists
+# The Book of Secret Knowledge
 
-New items are also added on a regular basis.
+A forked collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, CLI/web tools, and more. Focused on cybersecurity, sysadmin, DevOps, and pentesting knowledge.
 
-## :anger: &nbsp;Table of Contents
+> Knowledge is powerful, be careful how you use it!
 
-Only main chapters:
+## Table of Contents
 
-- **[CLI Tools](#cli-tools-toc)**
-- **[GUI Tools](#gui-tools-toc)**
-- **[Web Tools](#web-tools-toc)**
-- **[Systems/Services](#systemsservices-toc)**
-- **[Networks](#networks-toc)**
-- **[Containers/Orchestration](#containersorchestration-toc)**
-- **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
-- **[Inspiring Lists](#inspiring-lists-toc)**
-- **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
-- **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
-- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
-- **[Other Cheat Sheets](#other-cheat-sheets-toc)**
-- **[Shell One-liners](#shell-one-liners-toc)**
-- **[Shell Tricks](#shell-tricks-toc)**
-- **[Shell Functions](#shell-functions-toc)**
+- [CLI Tools](./docs/cli-tools.md)
+- [GUI Tools](./docs/gui-tools.md)
+- [Web Tools](./docs/web-tools.md)
+- [Systems/Services](./docs/systems-services.md)
+- [Networks](./docs/networks.md)
+- [Containers/Orchestration](./docs/containers-orchestration.md)
+- [Manuals/Howtos/Tutorials](./docs/manuals-howtos-tutorials.md)
+- [Inspiring Lists](./docs/inspiring-lists.md)
+- [Blogs/Podcasts/Videos](./docs/blogs-podcasts-videos.md)
+- [Hacking/Penetration Testing](./docs/hacking-penetration-testing.md)
+- [Your Daily Knowledge and News](./docs/daily-knowledge-news.md)
+- [Other Cheat Sheets](./docs/other-cheat-sheets.md)
+- [Shell One-liners](./docs/shell-one-liners.md)
+- [Shell Tricks](./docs/shell-tricks.md)
+- [Shell Functions](./docs/shell-functions.md)
+- [Cybersecurity Additions (Personal R&D)](./docs/cybersecurity-additions.md)  # Link to your cert research
+
+## About This Fork
+Forked on 2026-03-03 from [original repo](https://github.com/trimstray/the-book-of-secret-knowledge). 
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add content.
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
