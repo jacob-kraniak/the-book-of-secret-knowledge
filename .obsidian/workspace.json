@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README.md.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "README.md"
             }
           }
         ]
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ac590a354251252",
+  "active": "47d43598259683ba",
   "lastOpenFiles": [
     "Untitled 1.base",
     "Untitled.base",
-    "README.md"
+    "README.md.md"
   ]
 }

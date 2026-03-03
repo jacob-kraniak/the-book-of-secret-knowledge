@@ -1,3 +1,9 @@
+`I have forked this repo in an effort to revitalize and contribute. Upstream repo appears inactive, with over 100+ Pull Requests. I have contacted @trimstray directly and will revert to maintaining the original Repo if they wish.`
+
+`Until then, I will do my best to clean up and revise this forked repo. Any contributions appreciated!` - @jacob-kraniak
+
+--------------------------
+
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
