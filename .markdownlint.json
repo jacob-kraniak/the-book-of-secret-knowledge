@@ -1,0 +1,10 @@
+{
+  "default": true,
+  "MD004": { "style": "dash" },          // enforce - bullets
+  "MD007": { "indent": 2 },              // consistent indent
+  "MD013": false,                        // no line length limit (large lists)
+  "MD022": true,                         // blank lines around headings
+  "MD029": { "style": "one" },           // ordered lists start with 1.
+  "MD033": { "allowed_elements": ["a", "code", "pre", "em", "strong"] }, // restrict HTML
+  "MD041": false                         // no first-line heading req
+}
