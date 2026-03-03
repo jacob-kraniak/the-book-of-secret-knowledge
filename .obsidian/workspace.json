@@ -4,34 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "470431c926ce80fb",
+        "id": "56050e89e857661d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac590a354251252",
+            "id": "cf5d3d0b674d92bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTRIBUTING.md",
+                "file": "docs/manuals-howtos-tutorials.md",
                 "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CONTRIBUTING"
+              "title": "manuals-howtos-tutorials"
+            }
+          },
+          {
+            "id": "c424de0961ab7db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/shell-one-liners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shell-one-liners"
+            }
+          },
+          {
+            "id": "230547590b518615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/web-tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "web-tools"
+            }
+          },
+          {
+            "id": "ca80b1b2027a2ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/shell-functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shell-functions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,11 +248,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ac590a354251252",
+  "active": "47d43598259683ba",
   "lastOpenFiles": [
+    "docs/other-cheat-sheets.md",
     "README.md",
-    "LICENSE.md",
+    "docs/manuals-howtos-tutorials.md",
+    "docs/web-tools.md",
+    "docs/shell-functions.md",
+    "docs/shell-one-liners.md",
+    "docs/cli-tools.md",
     "CONTRIBUTING.md",
+    "LICENSE.md",
     "assets",
     "docs",
     "Untitled 1.base",

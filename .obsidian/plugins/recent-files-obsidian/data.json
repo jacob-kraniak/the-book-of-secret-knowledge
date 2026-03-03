@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "CONTRIBUTING",
-      "path": "CONTRIBUTING.md"
+      "basename": "shell-functions",
+      "path": "docs/shell-functions.md"
+    },
+    {
+      "basename": "other-cheat-sheets",
+      "path": "docs/other-cheat-sheets.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "manuals-howtos-tutorials",
+      "path": "docs/manuals-howtos-tutorials.md"
+    },
+    {
+      "basename": "web-tools",
+      "path": "docs/web-tools.md"
+    },
+    {
+      "basename": "shell-one-liners",
+      "path": "docs/shell-one-liners.md"
+    },
+    {
+      "basename": "cli-tools",
+      "path": "docs/cli-tools.md"
+    },
+    {
+      "basename": "CONTRIBUTING",
+      "path": "CONTRIBUTING.md"
     },
     {
       "basename": "LICENSE",
