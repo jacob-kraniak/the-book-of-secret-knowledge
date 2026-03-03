@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Finances",
       "path": "1-Projects/Family/Finances.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Pipeline-history",
       "path": "Pipeline-history.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
