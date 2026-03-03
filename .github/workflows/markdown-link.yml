@@ -1,0 +1,22 @@
+name: Lint Markdown
+
+on:
+  push:
+    branches: [ "*" ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed for some linters
+
+      - name: Lint Markdown files
+        uses: nosborn/github-action-markdown-cli@v3
+        with:
+          files: .
+          config_file: ".markdownlint.json"
+          ignore_path: ".markdownlintignore"
