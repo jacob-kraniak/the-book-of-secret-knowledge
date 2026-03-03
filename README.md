@@ -1554,8 +1554,6 @@ AWS deployment tool.<br>
 | **`64.6.64.6`** | [verisign.com](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml) |
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
 | **`1.1.1.1`** | [cloudflare.com](https://1.1.1.1/) |
-| **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
-
 ###### TOP Browser extensions
 
 | <b><u>Extension name</u></b> | <b><u>Description</u></b> |
@@ -1615,7 +1613,7 @@ In Firefox's address bar, you can limit results by typing special characters bef
 - `chrome://dino` - ERR_INTERNET_DISCONNECTED...
 - `cache:<website-address>` - view the cached version of the web page
 
-###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
+###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://x.com/0xInfection))
 
 IP addresses can be shortened by dropping the zeroes:
 
@@ -1630,8 +1628,6 @@ http://192.168.516 → 192.168.2.4
 ```
 
   > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
-
-For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
 
 ###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
 
@@ -2308,7 +2304,7 @@ diff <(cat /etc/passwd) <(cut -f2 /etc/passwd)
 
 ___
 
-##### Tool: [vimdiff](http://vimdoc.sourceforge.net/htmldoc/diff.html)
+##### Tool: [vimdiff](https://git-scm.com/docs/vimdiff)
 
 ###### Highlight the exact differences, based on characters and words
 
@@ -2398,36 +2394,6 @@ dump -y -u -f /backup/system$(date +%d%m%Y%s).lzo /
 ```bash
 cd /
 restore -rf /backup/system$(date +%d%m%Y%s).lzo
-```
-
-___
-
-##### Tool: [cpulimit](http://cpulimit.sourceforge.net/)
-
-###### Limit the cpu usage of a process
-
-```bash
-cpulimit -p pid -l 50
-```
-
-___
-
-##### Tool: [pwdx](https://www.cyberciti.biz/faq/unix-linux-pwdx-command-examples-usage-syntax/)
-
-###### Show current working directory of a process
-
-```bash
-pwdx <pid>
-```
-
-___
-
-##### Tool: [taskset](https://www.cyberciti.biz/faq/taskset-cpu-affinity-command/)
-
-###### Start a command on only one CPU core
-
-```bash
-taskset -c 0 <command>
 ```
 
 ___
@@ -2773,7 +2739,6 @@ __EOF__
 For more information please look at these great explanations:
 
 - [RFC 5280](https://tools.ietf.org/html/rfc5280)
-- [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 - [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
 - [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
 - [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
@@ -3445,20 +3410,9 @@ tcpdump -ei enp0s25 -nnn -t -c 200 | cut -f 1,2,3,4 -d '.' | sort | uniq -c | so
 ```bash
 tcpdump -nei eth0 'not (src net (10 or 172.16/12 or 192.168/16) and dst net (10 or 172.16/12 or 192.168/16))'
 ```
-
 ___
 
-##### Tool: [tcpick](http://tcpick.sourceforge.net/)
-
-###### Analyse packets in real-time
-
-```bash
-while true ; do tcpick -a -C -r dump.pcap ; sleep 2 ; clear ; done
-```
-
-___
-
-##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
+##### Tool: [ngrep](https://github.com/jpr5/ngrep)
 
 ```bash
 ngrep -d eth0 "www.domain.com" port 443
@@ -3500,7 +3454,7 @@ ngrep -l -q -d eth0 -i "User-Agent: curl*"
 
 ___
 
-##### Tool: [hping3](http://www.hping.org/)
+##### Tool: [hping3](https://github.com/antirez/hping)
 
 ```bash
 hping3 -V -p 80 -s 5050 <scan_type> www.google.com
@@ -3617,7 +3571,7 @@ nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$
 
 ___
 
-##### Tool: [netcat](http://netcat.sourceforge.net/)
+##### Tool: [netcat](https://en.wikipedia.org/wiki/Netcat)
 
 ```bash
 nc -kl 5000
