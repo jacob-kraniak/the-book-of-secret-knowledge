@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "my-contributions",
+      "path": "docs/my-contributions.md"
+    },
+    {
       "basename": "shell-functions",
       "path": "docs/shell-functions.md"
     },

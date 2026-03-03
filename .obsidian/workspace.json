@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/shell-functions.md",
+                "file": "docs/my-contributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shell-functions"
+              "title": "my-contributions"
             }
           }
         ],
@@ -248,13 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47d43598259683ba",
+  "active": "ca80b1b2027a2ad4",
   "lastOpenFiles": [
+    "docs/shell-functions.md",
+    "docs/my-contributions.md",
     "docs/other-cheat-sheets.md",
     "README.md",
     "docs/manuals-howtos-tutorials.md",
     "docs/web-tools.md",
-    "docs/shell-functions.md",
     "docs/shell-one-liners.md",
     "docs/cli-tools.md",
     "CONTRIBUTING.md",
