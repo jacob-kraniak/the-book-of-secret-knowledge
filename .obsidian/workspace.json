@@ -11,14 +11,10 @@
             "id": "8ac590a354251252",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,6 +203,8 @@
   },
   "active": "8ac590a354251252",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
     "README.md"
   ]
 }
