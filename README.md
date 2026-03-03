@@ -17,6 +17,18 @@
 
 When ready: Plan to squash-merge or rebase + clean history into main.
 
+## Fork Attribution & My Contributions
+
+**Forked on 2026-03-03** from [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) (MIT licensed, last major upstream activity ~2024).
+
+### Original Content (trimstray)
+- Core structure, vast majority of CLI/GUI/Web tools lists, one-liners, blogs/podcasts, inspiring lists, manuals/howtos
+- Shell tricks/functions, hacking/pentesting resources (as of fork date)
+- All content present at commit hash: [insert upstream commit hash at fork time, e.g., 7d37069a...]
+
+## My Contributions
+
+
 --------------------------
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>

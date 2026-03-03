@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "my-contributions",
       "path": "docs/my-contributions.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "other-cheat-sheets",
       "path": "docs/other-cheat-sheets.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "manuals-howtos-tutorials",
