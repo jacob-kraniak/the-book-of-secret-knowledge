@@ -1,6 +1,6 @@
-> I have forked this repo in an effort to revitalize and contribute. Upstream repo appears inactive, with over 100+ Pull Requests. I have contacted @trimstray directly and will revert to maintaining the original Repo if they wish.`
-> 
-> Until then, I will do my best to clean up and revise this forked repo. Any contributions appreciated! - @jacob-kraniak
+"I have forked this repo in an effort to revitalize and contribute. Upstream repo appears inactive, with over 100+ Pull Requests. I have contacted @trimstray directly and will revert to maintaining the original Repo if they wish.`
+
+Until then, I will do my best to clean up and revise this forked repo. Any contributions appreciated!" - @jacob-kraniak
 
 --------------------------
 
