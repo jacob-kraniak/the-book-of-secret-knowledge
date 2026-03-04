@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/daily-knowledge-news.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "daily-knowledge-news"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94682ec4c402387c",
+  "active": "47d43598259683ba",
   "lastOpenFiles": [
+    "docs/docs",
+    "docs/system-services.md",
+    "docs/daily-knowledge-news.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "collaboration_proposal.md",
-    "README.md",
     "docs/my-contributions.md",
     "docs/shell-functions.md",
     "docs/other-cheat-sheets.md",
