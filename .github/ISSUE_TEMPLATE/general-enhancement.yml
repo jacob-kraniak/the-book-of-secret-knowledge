@@ -1,0 +1,20 @@
+name: General Enhancement or Idea
+description: Propose any other improvement (navigation, formatting, new feature like search, etc.)
+title: "[Enhancement] Short title"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Enhancement
+      value: |
+        **Is your feature request related to a problem? Please describe.**
+        A clear and concise description of what the problem is.
+
+        **Describe the solution you'd like**
+        A clear and concise description of what you want to happen.
+
+        **Additional context**
+        Add any other context or screenshots about the feature request here.
+    validations:
+      required: true

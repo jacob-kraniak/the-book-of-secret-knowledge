@@ -1,0 +1,47 @@
+name: Section Migration / Restructure
+description: Propose or work on moving a README section to subfolder/files
+title: "[Migration] Move/Refactor: Section Name"
+labels: ["migration", "structural", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for tracking the big structural refactor (moving content from README.md into dedicated folders/files).
+
+  - type: input
+    id: section
+    attributes:
+      label: Section / Subsection to Migrate
+      placeholder: e.g., CLI Tools → Network subsection, or Hacking/Penetration Testing → Labs & CTFs
+    validations:
+      required: true
+
+  - type: input
+    id: target
+    attributes:
+      label: Proposed Target Location
+      placeholder: e.g., /cli-tools/network.md or /hacking-pentesting/labs-ctfs.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Migration Notes / Decisions
+      description: Any consolidation, deduplication, renaming, or special handling needed?
+      placeholder: "Consolidate multiple CTF/lab mentions into one file; remove 404 links; add YAML frontmatter for tags."
+
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Potential Blockers or Dependencies
+      placeholder: "Depends on folder skeleton being created first; needs review of overlapping sections."
+
+  - type: checkboxes
+    id: status
+    attributes:
+      label: Current Status (self-check)
+      options:
+        - label: This is a proposal (not yet started)
+        - label: In progress (link PR below if exists)
+        - label: Ready for review
