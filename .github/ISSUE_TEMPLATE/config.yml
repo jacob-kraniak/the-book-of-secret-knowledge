@@ -1,0 +1,8 @@
+blank_issues_enabled: false  # Disable "Open a blank issue" to encourage template use
+contact_links:
+  - name: General Questions or Discussions
+    url: https://github.com/jacob-kraniak/the-book-of-secret-knowledge/discussions
+    about: For questions, ideas, or open discussion — please use Discussions instead of issues.
+  - name: Contact Maintainer (Jacob)
+    url: https://x.com/JacobSk92
+    about: For private or urgent outreach.
