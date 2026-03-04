@@ -1,0 +1,42 @@
+name: Broken Link or Outdated Resource
+description: Report a dead link, moved resource, or something that needs updating
+title: "[Fix] Broken/Outdated: Brief description"
+labels: ["maintenance", "bug"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Problematic URL
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Where is this link located?
+      placeholder: e.g., README.md line 456, or ./hacking-pentesting/wordlists.md
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Type of Issue
+      options:
+        - 404 / Not Found
+        - 403 / Forbidden
+        - Redirected / Moved
+        - Outdated / Deprecated
+        - Better Alternative Exists
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Fix / Replacement
+      placeholder: "Replace with https://new-working-url.com (status 200); or remove if obsolete."
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
