@@ -3,12 +3,6 @@
 **This branch is under heavy revision — do not merge to main yet.**
 
 - All recent work (since fork on 2026-03-03) is by @jacob-kraniak
-- 20+ personal commits focused on:
-  - Structural refactor: monolithic README → modular `/docs/*.md` files
-  - Obsidian vault integration (backups, .gitignore exclusions)
-  - Repo quality: markdownlint setup, GitHub Actions linting/labeling
-  - Initial cleanup: replaced broken links with status codes
-  - Placeholders for future cybersecurity certification additions
 - Upstream history (pre-2026 commits) remains from original trimstray repo for credit & context
 
 **See only my changes:**
@@ -27,7 +21,7 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 - All content present at commit hash: [insert upstream commit hash at fork time, e.g., 7d37069a...]
 
 ## My Contributions
-
+https://github.com/jacob-kraniak/the-book-of-secret-knowledge/blob/JK_Revisions/docs/my-contributions.md
 
 --------------------------
 
