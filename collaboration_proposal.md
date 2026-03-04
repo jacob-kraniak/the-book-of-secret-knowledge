@@ -8,5 +8,3 @@ Happy to discuss direction, merge strategy, or even make you a collaborator if i
 
 Looking forward to your thoughts!
 Jacob
-
-...test
