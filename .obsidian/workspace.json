@@ -11,10 +11,14 @@
             "id": "94682ec4c402387c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "f4a97c242da35e83",
@@ -201,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239e2791a1917b30",
+  "active": "94682ec4c402387c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "collaboration_proposal.md",

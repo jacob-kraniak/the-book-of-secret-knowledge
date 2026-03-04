@@ -32,7 +32,7 @@ https://github.com/jacob-kraniak/the-book-of-secret-knowledge/blob/JK_Revisions/
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+  <a href="https://github.com/jacob-kraniak/the-book-of-secret-knowledge/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="LICENSE.md">
