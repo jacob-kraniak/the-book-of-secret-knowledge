@@ -1,6 +1,3 @@
-# CLI Tools
-Curated, high-quality command-line utilities across sysadmin, security, networking, productivity, and development workflows.
-
 ## Shells & Prompting
 Interactive shells, enhancers, prompts, plugins, fuzzy finders/jump tools
 
@@ -30,44 +27,3 @@ Interactive shells, enhancers, prompts, plugins, fuzzy finders/jump tools
 |fd|—|[sharkdp/fd](https://github.com/sharkdp/fd)|Simple, fast, user-friendly alternative to find.|find, filesystem, rust|2026-01|
 |bat|—|[sharkdp/bat](https://github.com/sharkdp/bat)|cat clone with syntax highlighting and Git integration.|syntax-highlighter, viewer, rust|2026-03|
 |delta|—|[dandavison/delta](https://github.com/dandavison/delta)|Beautiful syntax-highlighting pager for git diff.|diff, git, pager, rust|2026-02|
-
-## Text & File Manipulation
-- Editors (vim/neovim/micro), viewers (bat, hexyl), finders (fd, ripgrep), fuzzy (fzf), diff/pretty (delta), file ops (exa/lsd, dust, duf, ncdu)
-
-## Filesystem & Disk
-- Disk usage/analyzers, mount/umount helpers, secure delete/wipe, inotify tools
-
-## System Monitoring & Diagnostics
-- Process (htop/btop, glances, bottom), memory/CPU (nvtop if GPU), logs (lnav, goaccess), debuggers (strace, ltrace), perf tools
-
-## Networking & Recon
-### Core Utilities
-- curl, wget, httpie, aria2, transmission-cli
-
-### Scanning & Discovery
-- nmap, masscan, RustScan, naabu, zmap
-
-### Traffic Capture & Analysis
-- tcpdump, tshark, termshark, wireshark-cli equivalents
-
-### DNS & Subdomain
-- subfinder, amass, dnsx, dnstwist, fierce
-
-### Proxy / Tunneling / TOR
-- proxychains, redsocks, tor, torsocks, chisel, bore
-
-## Security & Crypto
-- openssl, gnupg/gpg, age/sops, hashcat/john (if CLI-focused), secure-delete tools, password managers (pass, bitwarden-cli)
-
-## Databases & Data
-- sqlite3 utils, jq/yq (JSON/YAML), miller (CSV/TSV), csvkit, duckdb CLI
-
-## Development & Versioning
-- git cli helpers/extras (gh, git-extras, lazygit), diff-so-fancy/delta, tig
-
-## Productivity & Misc
-- Task runners (task, just), note-taking (jrnl, taskwarrior), calendars (calcurse), chat/IRC (weechat, irssi), RSS (newsboat)
-
-## Benchmarking & Performance
-- wrk, hyperfine, fio, sysbench
-

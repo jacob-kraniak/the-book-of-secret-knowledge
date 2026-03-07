@@ -109,26 +109,6 @@ Moved to - [CLI Tools](./docs/cli-tools.md)
 &nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
 </p>
 
-##### :black_small_square: Text editors
-
-<p>
-&nbsp;&nbsp; <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
-&nbsp;&nbsp; <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
-&nbsp;&nbsp; <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
-&nbsp;&nbsp; <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
-&nbsp;&nbsp; <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
-&nbsp;&nbsp; <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
-&nbsp;&nbsp; <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
-</p>
-
-##### :black_small_square: Files and directories
-
-<p>
-&nbsp;&nbsp; <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
-&nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
-</p>
-
-
 
 ##### :black_small_square: Network (DNS)
 
