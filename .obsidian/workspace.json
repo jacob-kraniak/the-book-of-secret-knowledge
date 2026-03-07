@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Log Analyzers"
+              "title": "Terminal Emulators"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log Analyzers"
+              "title": "Backlinks for Terminal Emulators"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Log Analyzers"
+              "title": "Outgoing links from Terminal Emulators"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log Analyzers"
+              "title": "Outline of Terminal Emulators"
             }
           },
           {
@@ -196,11 +196,13 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "docs/security/recon-threat-intel.md",
+    "README.md",
+    "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+    "docs/security/Recon & Threat Reputation.md",
+    "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
     "docs/network-engineering/diagnostics-troubleshooting/Online Network Diagnostics & Utilities.md",
     "docs/network-engineering/routing-bgp-ospf/BGP & Routing Tools.md",
     "docs/network-engineering/diagnostics-troubleshooting/Global Internet Measurement Platform.md",
-    "README.md",
     "docs/network-engineering/diagnostics-troubleshooting",
     "docs/security/vuln-analysis-exploitation/Vulnerability & Exploit Databases.md",
     "docs/cross-domain/manuals-howtos-tutorials.md",
@@ -208,7 +210,6 @@
     "TOOL-TABLE-SCHEMA.md",
     "Contibuting.md",
     "docs/my-contributions.md",
-    "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
     "docs/sysadmin-devops/system-monitoring-tracing",
     "docs/00_index.md",
     "docs/tools - (migrate out)/cli-tools.md",
