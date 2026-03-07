@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Terminal Emulators"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminal Emulators"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminal Emulators"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal Emulators"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,7 +196,15 @@
   },
   "active": "4ec77f521918a14f",
   "lastOpenFiles": [
+    "documentation/readme - to refactor.md",
     "README.md",
+    "documentation/manuals-howtos-guides/shell-tricks-functions.md",
+    "documentation/other-cheat-sheets.md",
+    "documentation/manuals-howtos-guides/shell-one-liners.md",
+    "documentation/manuals-howtos-guides",
+    "documentation/learning-resources/daily-knowledge-news.md",
+    "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+    "documentation",
     "docs/sysadmin-devops/terminal-shell-productivity/shell-functions.md",
     "docs/sysadmin-devops/terminal-shell-productivity/shell-one-liners.md",
     "tools/system-services.md",
@@ -212,25 +220,17 @@
     "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
     "tools/security/pentest-recon-enum/Recon & Threat Reputation.md",
     "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
     "docs/sysadmin-devops/ssh-remote-access",
     "tools/network-engineering/diagnostics-troubleshooting/Online Network Diagnostics & Utilities.md",
     "tools/network-engineering/routing-bgp-ospf/BGP & Routing Tools.md",
     "tools/network-engineering/diagnostics-troubleshooting/Global Internet Measurement Platform.md",
     "tools/network-engineering/diagnostics-troubleshooting",
-    "tools/cross-domain/manuals-howtos-tutorials.md",
-    "tools/cross-domain/learning-resources/daily-knowledge-news.md",
     "TOOL-TABLE-SCHEMA.md",
     "Contibuting.md",
-    "tools/my-contributions.md",
     "tools/sysadmin-devops/system-monitoring-tracing",
-    "tools/00_index.md",
-    "tools/tools - (migrate out)/cli-tools.md",
     "tools/network-engineering/routing-bgp-ospf",
     "tools/network-engineering/dns-dhc-ipam",
-    "tools/network-engineering",
-    "tools/cross-domain",
-    "tools/sysadmin-devops/diagnostics-troubleshooting"
+    "tools/network-engineering"
   ]
 }
