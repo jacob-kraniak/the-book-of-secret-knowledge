@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/cli-tools.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "cli-tools"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/cli-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for cli-tools"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/cli-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from cli-tools"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/cli-tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of cli-tools"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "4ec77f521918a14f",
   "lastOpenFiles": [
-    "documentation/readme - to refactor.md",
     "README.md",
+    "documentation/readme - to refactor.md",
     "documentation/manuals-howtos-guides/shell-tricks-functions.md",
     "documentation/other-cheat-sheets.md",
     "documentation/manuals-howtos-guides/shell-one-liners.md",
