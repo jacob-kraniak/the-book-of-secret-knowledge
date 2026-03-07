@@ -1,0 +1,5 @@
+|Name|Vendor/Webpage|GitHub Repo|Brief Description|Tags|Latest Commit|
+|---|---|---|---|---|---|
+|Netcraft|[https://toolbar.netcraft.com/site_report](https://toolbar.netcraft.com/site_report)|— (org: [netcraft](https://github.com/netcraft))|Detailed web site reports on hosting history, tech stack, phishing risk, and integrity indicators.|[recon, site-report, security, osint, web-intel]|Active (ongoing service; public-iocs repo ~Dec 2025)|
+|Security Trails|[https://securitytrails.com/](https://securitytrails.com/)|— (clients e.g. [hakluke/haktrails](https://github.com/hakluke/haktrails))|API for historical and current DNS, IP, domain, SSL cert, and open port intelligence.|[recon, dns-history, api, osint, ip-intel]|Active (API service; client libs ~2023+)|
+|VirusTotal|[https://www.virustotal.com/](https://www.virustotal.com/)|— (API clients exist)|Multi-engine scanner for files, URLs, IPs to detect malware, phishing, and suspicious behavior.|[malware, analysis, url-scan, file-scan, intel]|Active (daily engine/database updates)|

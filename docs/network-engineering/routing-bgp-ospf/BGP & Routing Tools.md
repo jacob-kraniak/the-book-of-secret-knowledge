@@ -1,0 +1,4 @@
+|Name|Vendor/Webpage|GitHub Repo|Brief Description|Tags|Latest Commit|
+|---|---|---|---|---|---|
+|BGPview|[https://bgpview.io/](https://bgpview.io/)|[CAIDA/bgpview](https://github.com/CAIDA/bgpview) (core lib)|Searchable BGP data for ASNs, prefixes, IPs, AS paths, peers, and routing stats.|[bgp, routing, asn, prefix-search, analytics]|~Mar 2026 (lib updates; service active)|
+|Is BGP safe yet?|[https://isbgpsafeyet.com/](https://isbgpsafeyet.com/)|[cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com)|Tracks RPKI filtering status and BGP security adoption among major ISPs/operators.|[bgp, rpki, security, routing, monitoring]|Nov 18, 2025 (index.html update)|
