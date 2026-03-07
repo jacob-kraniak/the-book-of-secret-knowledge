@@ -19,34 +19,7 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 
 ##### :black_small_square: Network (HTTP)
 
-<p>
-&nbsp;&nbsp; <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
-&nbsp;&nbsp; <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
-&nbsp;&nbsp; <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a> - is an user-friendly HTTP client.<br>
-&nbsp;&nbsp; <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - is an interactive cli tool for HTTP inspection.<br>
-&nbsp;&nbsp; <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br>
-&nbsp;&nbsp; <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br>
-&nbsp;&nbsp; <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a> - is a simple Swiss Army knife for http/https troubleshooting and profiling.<br>
-&nbsp;&nbsp; <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a> - is a tool that visualizes curl statistics in a way of beauty and clarity.<br>
-&nbsp;&nbsp; <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a> - is an interactive web server.<br>
-&nbsp;&nbsp; <a href="https://lynx.browser.org/"><b>Lynx</b></a> - is a text browser for the World Wide Web.<br>
-&nbsp;&nbsp; <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br>
-&nbsp;&nbsp; <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a> - a list of (almost) all headless web browsers in existence.<br>
-&nbsp;&nbsp; <a href="https://httpd.apache.org/docs/2.4/programs/ab.html"><b>ab</b></a> - is a single-threaded command line tool for measuring the performance of HTTP web servers.<br>
-&nbsp;&nbsp; <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
-&nbsp;&nbsp; <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
-&nbsp;&nbsp; <a href="https://github.com/giltene/wrk2"><b>wrk2</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
-&nbsp;&nbsp; <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
-&nbsp;&nbsp; <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a> - is a fast cross-platform HTTP benchmarking tool written in Go.<br>
-&nbsp;&nbsp; <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a> - http/https load testing and benchmarking tool.<br>
-&nbsp;&nbsp; <a href="https://github.com/rakyll/hey"><b>hey</b></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
-&nbsp;&nbsp; <a href="https://github.com/tarekziade/boom"><b>boom</b></a> - is a script you can use to quickly smoke-test your web app deployment.<br>
-&nbsp;&nbsp; <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP.<br>
-&nbsp;&nbsp; <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
-&nbsp;&nbsp; <a href="https://github.com/ssllabs/ssllabs-scan"><b>ssllabs-scan</b></a> - command-line reference-implementation client for SSL Labs APIs.<br>
-&nbsp;&nbsp; <a href="https://github.com/mozilla/http-observatory"><b>http-observatory</b></a> - Mozilla HTTP Observatory cli version.<br>
-&nbsp;&nbsp; <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
-</p>
+
 
 ##### :black_small_square: SSL
 

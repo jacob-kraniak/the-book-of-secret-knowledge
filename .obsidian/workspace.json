@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal Emulators"
+              "title": "security-hardening"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminal Emulators"
+              "title": "Backlinks for security-hardening"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminal Emulators"
+              "title": "Outgoing links from security-hardening"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal Emulators"
+              "title": "Outline of security-hardening"
             }
           },
           {
@@ -196,12 +196,17 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
+    "tools/sysadmin-devops/https-web-services/browsers.md",
+    "tools/sysadmin-devops/https-web-services/security-hardening.md",
+    "tools/sysadmin-devops/https-web-services/benchmark-load.md",
+    "tools/sysadmin-devops/https-web-services/clients-inspectors.md",
+    "README.md",
+    "tools/sysadmin-devops/https-web-services",
+    "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
-    "README.md",
     "tools/network-engineering/dns-dhc-ipam/dns-tools.md",
     "tools/00_index.md",
     "tools/tools - (migrate out)/gui-tools.md",
@@ -221,16 +226,11 @@
     "tools/network-engineering/diagnostics-troubleshooting/Tracing & Diagnostics.md",
     "docs/sysadmin-devops/system-monitoring-tracing/Untitled.md",
     "tools/security/pentest-recon-enum/Packet Capture & Analysis.md",
-    "tools/network-engineering/diagnostics-troubleshooting/protocols-general/Data Transfer.md",
     "tools/network-engineering/diagnostics-troubleshooting/protocols-general",
-    "tools/security/vuln-analysis-exploitation/Packet Crafting & Manipulation.md",
-    "tools/security/vuln-analysis-exploitation/Vulnerability & Exploit Databases.md",
-    "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
     "docs/sysadmin-devops/ssh-remote-access",
     "tools/network-engineering/diagnostics-troubleshooting",
     "tools/sysadmin-devops/system-monitoring-tracing",
     "tools/network-engineering/routing-bgp-ospf",
-    "tools/network-engineering/dns-dhc-ipam",
-    "tools/network-engineering"
+    "tools/network-engineering/dns-dhc-ipam"
   ]
 }
