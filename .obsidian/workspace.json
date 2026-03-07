@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Terminal Emulators"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminal Emulators"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminal Emulators"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal Emulators"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,15 +196,28 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "README.md",
-    "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
-    "docs/security/Recon & Threat Reputation.md",
+    "docs/network-engineering/diagnostics-troubleshooting/Bandwidth & Performance Testing.md",
+    "docs/security/hardening-compliance",
+    "docs/network-engineering/diagnostics-troubleshooting/Tracing & Diagnostics.md",
+    "docs/sysadmin-devops/system-monitoring-tracing/Untitled.md",
+    "docs/security/pentest-recon-enum/Packet Capture & Analysis.md",
+    "docs/network-engineering/diagnostics-troubleshooting/protocols-general/Data Transfer.md",
+    "docs/network-engineering/diagnostics-troubleshooting/protocols-general",
+    "docs/security/vuln-analysis-exploitation/Packet Crafting & Manipulation.md",
+    "docs/security/vuln-analysis-exploitation/Vulnerability & Exploit Databases.md",
+    "docs/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
+    "docs/security/pentest-recon-enum/Recon & Threat Reputation.md",
     "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+    "docs/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
+    "docs/sysadmin-devops/terminal-shell-productivity/shell-one-liners.md",
+    "docs/sysadmin-devops/terminal-shell-productivity/shell-functions.md",
+    "docs/sysadmin-devops/Remote Access + SSH Clients.md",
+    "README.md",
+    "docs/sysadmin-devops/ssh-remote-access",
     "docs/network-engineering/diagnostics-troubleshooting/Online Network Diagnostics & Utilities.md",
     "docs/network-engineering/routing-bgp-ospf/BGP & Routing Tools.md",
     "docs/network-engineering/diagnostics-troubleshooting/Global Internet Measurement Platform.md",
     "docs/network-engineering/diagnostics-troubleshooting",
-    "docs/security/vuln-analysis-exploitation/Vulnerability & Exploit Databases.md",
     "docs/cross-domain/manuals-howtos-tutorials.md",
     "docs/cross-domain/learning-resources/daily-knowledge-news.md",
     "TOOL-TABLE-SCHEMA.md",
@@ -213,24 +226,10 @@
     "docs/sysadmin-devops/system-monitoring-tracing",
     "docs/00_index.md",
     "docs/tools - (migrate out)/cli-tools.md",
-    "docs/system-services.md",
     "docs/network-engineering/routing-bgp-ospf",
     "docs/network-engineering/dns-dhc-ipam",
     "docs/network-engineering",
-    "docs/sysadmin-devops/telemery.md",
     "docs/cross-domain",
-    "docs/sysadmin-devops/diagnostics-troubleshooting",
-    "docs/sysadmin-devops/terminal-shell-productivity",
-    "docs/sysadmin-devops/file-disk-management",
-    "docs/sysadmin-devops",
-    "docs/tools - (migrate out)/gui-tools.md",
-    "CONTRIBUTING.md",
-    "docs/tools - (migrate out)/web-tools.md",
-    "docs/web-tools.md",
-    "docs/sysadmin-devops/terminal-shell-productivity/shell-one-liners.md",
-    "docs/sysadmin-devops/terminal-shell-productivity/shell-functions.md",
-    "docs/cross-domain/other-cheat-sheets.md",
-    "docs/daily-knowledge-news.md",
-    "docs/cli-tools.md"
+    "docs/sysadmin-devops/diagnostics-troubleshooting"
   ]
 }

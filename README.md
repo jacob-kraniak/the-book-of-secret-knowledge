@@ -128,47 +128,7 @@ Moved to - [CLI Tools](./docs/cli-tools.md)
 &nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
 </p>
 
-##### :black_small_square: Network
 
-<p>
-&nbsp;&nbsp; <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
-&nbsp;&nbsp; <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
-&nbsp;&nbsp; <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
-&nbsp;&nbsp; <a href="https://nmap.org/"><b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
-&nbsp;&nbsp; <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
-&nbsp;&nbsp; <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
-&nbsp;&nbsp; <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
-&nbsp;&nbsp; <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
-&nbsp;&nbsp; <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
-&nbsp;&nbsp; <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
-&nbsp;&nbsp; <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
-&nbsp;&nbsp; <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
-&nbsp;&nbsp; <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
-&nbsp;&nbsp; <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
-&nbsp;&nbsp; <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
-&nbsp;&nbsp; <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
-&nbsp;&nbsp; <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
-&nbsp;&nbsp; <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
-&nbsp;&nbsp; <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
-&nbsp;&nbsp; <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
-&nbsp;&nbsp; <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
-&nbsp;&nbsp; <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
-&nbsp;&nbsp; <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
-&nbsp;&nbsp; <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
-&nbsp;&nbsp; <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
-&nbsp;&nbsp; <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
-&nbsp;&nbsp; <a href="https://github.com/jwbensley/Etherate"><b>Etherate</b></a> - is a Linux CLI based Ethernet and MPLS traffic testing tool.<br>
-&nbsp;&nbsp; <a href="https://github.com/mpolden/echoip"><b>echoip</b></a> - is a IP address lookup service.<br>
-&nbsp;&nbsp; <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
-&nbsp;&nbsp; <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
-&nbsp;&nbsp; <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
-&nbsp;&nbsp; <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
-&nbsp;&nbsp; <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
-&nbsp;&nbsp; <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
-&nbsp;&nbsp; <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
-&nbsp;&nbsp; <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
-&nbsp;&nbsp; <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
-</p>
 
 ##### :black_small_square: Network (DNS)
 
