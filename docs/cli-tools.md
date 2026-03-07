@@ -13,6 +13,14 @@ Interactive shells, enhancers, prompts, plugins, fuzzy finders/jump tools
 [**Starship**](https://github.com/starship/starship) - the cross-shell prompt written in Rust.  
 [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) - is a fast reimplementation of Powerlevel9k ZSH theme.
 
+### Shell Plug-ins
+
+[**z**](https://github.com/rupa/z) - tracks the folder you use the most and allow you to jump, without having to type the whole path.  
+[**fzf**](https://github.com/junegunn/fzf) - is a general-purpose command-line fuzzy finder.  
+[**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh.  
+[**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.  
+[**Awesome ZSH Plugins**](https://github.com/unixorn/awesome-zsh-plugins) - A list of frameworks, plugins, themes and tutorials for ZSH.
+
 ## Terminal & Multiplexing
 - Multiplexers (tmux/screen), terminal emulators/utils, session managers
 
@@ -55,3 +63,4 @@ Interactive shells, enhancers, prompts, plugins, fuzzy finders/jump tools
 
 ## Benchmarking & Performance
 - wrk, hyperfine, fio, sysbench
+
