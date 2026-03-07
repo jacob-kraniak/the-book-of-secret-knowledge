@@ -1,11 +1,8 @@
-- **[angle-grinder](https://github.com/rcoh/angle-grinder)** — Slice and dice log files on the command line (aggregation, percentiles, live updates).  
-  *Tags: log-analysis, CLI, aggregation, real-time, Rust*
+#### Log Analyzers
 
-- **[lnav](https://lnav.org/)** — Advanced log file navigator with search, auto-refresh, format detection, merging, filtering, and SQLite querying in a TUI.  
-  *Tags: log-analysis, CLI, TUI, viewer, search, SQLite*
-
-- **[GoAccess](https://goaccess.io/)** — Real-time web log analyzer and interactive terminal viewer (HTTP stats, visitors, requests, bandwidth).  
-  *Tags: log-analysis, CLI, real-time, web-logs, HTTP, analytics, viewer*
-
-- **[ngxtop](https://github.com/lebinh/ngxtop)** — Real-time top-like metrics from nginx access logs (requests, status, upstreams).  
-  *Tags: log-analysis, CLI, real-time, nginx, web-logs, monitoring, top-like*
+| Name          | Vendor/Webpage                          | GitHub Repo                                                                 | Brief Description                                                                 | Tags                                      |
+|---------------|-----------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------|
+| angle-grinder | — (primarily GitHub-based project)      | [/angle-grinder](https://github.com/rcoh/angle-grinder) | CLI tool to parse, aggregate, and analyze log files/streams in real time (supports JSON/logfmt/generic formats, sum/avg/percentiles/sort, live terminal updates). | [log-analysis, CLI, aggregation, real-time, Rust] |
+| lnav          | [https://lnav.org/](https://lnav.org/)  | [/tstack/lnav](https://github.com/tstack/lnav)           | Advanced terminal log file navigator with automatic format detection, merging, tailing, search/filtering, SQLite querying, and TUI interface. | [log-analysis, CLI, TUI, viewer, search, auto-refresh, SQLite] |
+| GoAccess      | [https://goaccess.io/](https://goaccess.io/) | [/allinurl/goaccess](https://github.com/allinurl/goaccess) | Real-time interactive terminal analyzer for web server access logs (HTTP stats: visitors, requests, bandwidth, referrers; supports HTML/JSON/CSV output). | [log-analysis, CLI, real-time, web-logs, HTTP, analytics, viewer] |
+| ngxtop        | — (primarily GitHub-based project)      | [/lebinh/ngxtop](https://github.com/lebinh/ngxtop)       | Real-time top-like metrics viewer for nginx (and compatible) access logs (requests, status codes, upstreams, bandwidth; configurable formats/filters). | [log-analysis, CLI, real-time, nginx, web-logs, monitoring, top-like, Python] |
