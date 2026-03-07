@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tools - (migrate out)/cli-tools.md",
+                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "cli-tools"
+              "title": "Log Analyzers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/tools - (migrate out)/cli-tools.md",
+                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cli-tools"
+              "title": "Backlinks for Log Analyzers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/tools - (migrate out)/cli-tools.md",
+                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cli-tools"
+              "title": "Outgoing links from Log Analyzers"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/tools - (migrate out)/cli-tools.md",
+                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cli-tools"
+              "title": "Outline of Log Analyzers"
             }
           },
           {
@@ -197,6 +197,10 @@
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
     "README.md",
+    "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+    "docs/sysadmin-devops/system-monitoring-tracing",
+    "docs/00_index.md",
+    "docs/tools - (migrate out)/cli-tools.md",
     "Untitled.md",
     "docs/system-services.md",
     "docs/network-engineering/routing-bgp-ospf",
@@ -207,13 +211,10 @@
     "docs/sysadmin-devops/diagnostics-troubleshooting",
     "docs/sysadmin-devops/terminal-shell-productivity",
     "docs/sysadmin-devops/file-disk-management",
-    "docs/tools - (migrate out)/cli-tools.md",
     "docs/sysadmin-devops",
     "docs/tools - (migrate out)/gui-tools.md",
     "docs/security/OSINT",
-    "docs/security/vuln-analysis-exploitation",
     "docs/cross-domain/manuals-howtos-tutorials.md",
-    "docs/00_index.md",
     "Contibuting.md",
     "CONTRIBUTING.md",
     "docs/tools - (migrate out)/web-tools.md",

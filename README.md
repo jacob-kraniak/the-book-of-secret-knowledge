@@ -286,15 +286,6 @@ Moved to - [CLI Tools](./docs/cli-tools.md)
 &nbsp;&nbsp; <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
 </p>
 
-##### :black_small_square: Log Analyzers
-
-<p>
-&nbsp;&nbsp; <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a> - slice and dice log files on the command line.<br>
-&nbsp;&nbsp; <a href="https://lnav.org"><b>lnav</b></a> - log file navigator with search and automatic refresh.<br>
-&nbsp;&nbsp; <a href="https://goaccess.io/"><b>GoAccess</b></a> - real-time web log analyzer and interactive viewer that runs in a terminal.<br>
-&nbsp;&nbsp; <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a> - real-time metrics for nginx server.<br>
-</p>
-
 ##### :black_small_square: Databases
 
 <p>
