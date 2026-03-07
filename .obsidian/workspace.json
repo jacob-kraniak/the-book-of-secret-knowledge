@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "security-hardening"
+              "title": "Text Editors"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for security-hardening"
+              "title": "Backlinks for Text Editors"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from security-hardening"
+              "title": "Outgoing links from Text Editors"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/https-web-services/security-hardening.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of security-hardening"
+              "title": "Outline of Text Editors"
             }
           },
           {
@@ -196,9 +196,9 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "tools/sysadmin-devops/https-web-services/browsers.md",
-    "tools/sysadmin-devops/https-web-services/security-hardening.md",
     "tools/sysadmin-devops/https-web-services/benchmark-load.md",
+    "tools/sysadmin-devops/https-web-services/security-hardening.md",
+    "tools/sysadmin-devops/https-web-services/browsers.md",
     "tools/sysadmin-devops/https-web-services/clients-inspectors.md",
     "README.md",
     "tools/sysadmin-devops/https-web-services",
