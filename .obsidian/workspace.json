@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "01b0bbe141d50227",
+    "id": "c24aabde42d9736c",
     "type": "split",
     "children": [
       {
-        "id": "63547dd52f0dc108",
+        "id": "99be4e0dd6edfe53",
         "type": "tabs",
         "children": [
           {
-            "id": "94682ec4c402387c",
+            "id": "069e5de5ec6fc88a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/daily-knowledge-news.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "daily-knowledge-news"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a5ccfe11ac796f9",
+    "id": "5ad431d0fe7d1150",
     "type": "split",
     "children": [
       {
-        "id": "f9b581748ecd7e67",
+        "id": "917d96cc26084f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "47d43598259683ba",
+            "id": "4ec77f521918a14f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "1dc0dff0acb89b06",
+            "id": "605193dd4592c5a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "5dc7aad3bcfc24bf",
+            "id": "7fe85d73155bfcff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300
   },
   "right": {
-    "id": "f4a97c242da35e83",
+    "id": "c22613f52054cb87",
     "type": "split",
     "children": [
       {
-        "id": "be7ef1a1a1ad3051",
+        "id": "4f04adc77d6ba68e",
         "type": "tabs",
         "children": [
           {
-            "id": "e249d598a2beae40",
+            "id": "a0a0eb38885e78f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "45b58e51f12d3242",
+            "id": "20c4f52ee0001d76",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "d8677a664fa70619",
+            "id": "064835e7dc304df3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "37f8474989421076",
+            "id": "49b74fed03ce419a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,32 +145,21 @@
             }
           },
           {
-            "id": "9d0a62919bf78942",
+            "id": "db6d032f8df0cc8d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
-            "id": "8ec3eb76b64ace79",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "239e2791a1917b30",
+            "id": "f3f577dcf6ffe86c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -186,11 +169,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,30 +184,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47d43598259683ba",
+  "active": "4ec77f521918a14f",
   "lastOpenFiles": [
-    "docs/docs",
+    "docs/tools/web-tools.md",
+    "docs/tools/gui-tools.md",
+    "docs/tools/cli-tools.md",
+    "docs/tools",
+    "docs/learning-resources/daily-knowledge-news.md",
+    "docs/learning-resources",
+    "docs/00_index.md",
+    "docs/web-tools.md",
     "docs/system-services.md",
-    "docs/daily-knowledge-news.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "collaboration_proposal.md",
-    "docs/my-contributions.md",
+    "docs/shell-one-liners.md",
     "docs/shell-functions.md",
     "docs/other-cheat-sheets.md",
+    "docs/my-contributions.md",
     "docs/manuals-howtos-tutorials.md",
-    "docs/web-tools.md",
-    "docs/shell-one-liners.md",
+    "docs/daily-knowledge-news.md",
     "docs/cli-tools.md",
-    "CONTRIBUTING.md",
-    "LICENSE.md",
-    "assets",
-    "docs",
-    "Untitled 1.base",
-    "Untitled.base"
+    "collaboration_proposal.md",
+    "CONTRIBUTING.md"
   ]
 }
