@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "TOOL-TABLE-SCHEMA.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Log Analyzers"
+              "title": "TOOL-TABLE-SCHEMA"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 334.5
   },
   "right": {
     "id": "c22613f52054cb87",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "TOOL-TABLE-SCHEMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log Analyzers"
+              "title": "Backlinks for TOOL-TABLE-SCHEMA"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "TOOL-TABLE-SCHEMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Log Analyzers"
+              "title": "Outgoing links from TOOL-TABLE-SCHEMA"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "TOOL-TABLE-SCHEMA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log Analyzers"
+              "title": "Outline of TOOL-TABLE-SCHEMA"
             }
           },
           {
@@ -196,12 +196,14 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "README.md",
+    "Contibuting.md",
+    "TOOL-TABLE-SCHEMA.md",
+    "docs/my-contributions.md",
     "docs/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+    "README.md",
     "docs/sysadmin-devops/system-monitoring-tracing",
     "docs/00_index.md",
     "docs/tools - (migrate out)/cli-tools.md",
-    "Untitled.md",
     "docs/system-services.md",
     "docs/network-engineering/routing-bgp-ospf",
     "docs/network-engineering/dns-dhc-ipam",
@@ -215,7 +217,6 @@
     "docs/tools - (migrate out)/gui-tools.md",
     "docs/security/OSINT",
     "docs/cross-domain/manuals-howtos-tutorials.md",
-    "Contibuting.md",
     "CONTRIBUTING.md",
     "docs/tools - (migrate out)/web-tools.md",
     "docs/cross-domain/learning-resources/daily-knowledge-news.md",
@@ -223,7 +224,6 @@
     "docs/sysadmin-devops/terminal-shell-productivity/shell-one-liners.md",
     "docs/sysadmin-devops/terminal-shell-productivity/shell-functions.md",
     "docs/cross-domain/other-cheat-sheets.md",
-    "docs/my-contributions.md",
     "docs/daily-knowledge-news.md",
     "docs/cli-tools.md"
   ]
