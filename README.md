@@ -90,32 +90,13 @@ Forked on 2026-03-03 from [original repo](https://github.com/trimstray/the-book-
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add content.
 
-## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
+##### :black_small_square: Shell
 
-#### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
-
-##### :black_small_square: Shells
-
-<p>
-&nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
-&nbsp;&nbsp; <a href="https://www.zsh.org/"><b>Zsh</b></a> - is a shell designed for interactive use, although it is also a powerful scripting language.<br>
-&nbsp;&nbsp; <a href="https://tcl-lang.org/"><b>tclsh</b></a> - is a very powerful cross-platform shell, suitable for a huge range of uses.<br>
-&nbsp;&nbsp; <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
-&nbsp;&nbsp; <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
-&nbsp;&nbsp; <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
-&nbsp;&nbsp; <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
-&nbsp;&nbsp; <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
-</p>
+moved to -[CLI Tools](./docs/cli-tools.md)
 
 ##### :black_small_square: Shell plugins
 
-<p>
-&nbsp;&nbsp; <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br>
-&nbsp;&nbsp; <a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - is a general-purpose command-line fuzzy finder.<br>
-&nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
-&nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
-&nbsp;&nbsp; <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
-</p>
+Moved to - [CLI Tools](./docs/cli-tools.md)
 
 ##### :black_small_square: Managers
 
