@@ -74,15 +74,15 @@ A forked collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-
 - [Systems/Services](./docs/systems-services.md)
 - [Networks](./docs/networks.md)
 - [Containers/Orchestration](./docs/containers-orchestration.md)
-- [Manuals/Howtos/Tutorials](./docs/manuals-howtos-tutorials.md)
+- [Manuals/Howtos/Tutorials](manuals-howtos-tutorials.md)
 - [Inspiring Lists](./docs/inspiring-lists.md)
 - [Blogs/Podcasts/Videos](./docs/blogs-podcasts-videos.md)
 - [Hacking/Penetration Testing](./docs/hacking-penetration-testing.md)
 - [Your Daily Knowledge and News](./docs/daily-knowledge-news.md)
-- [Other Cheat Sheets](./docs/other-cheat-sheets.md)
-- [Shell One-liners](./docs/shell-one-liners.md)
+- [Other Cheat Sheets](other-cheat-sheets.md)
+- [Shell One-liners](shell-one-liners.md)
 - [Shell Tricks](./docs/shell-tricks.md)
-- [Shell Functions](./docs/shell-functions.md)
+- [Shell Functions](shell-functions.md)
 - [Cybersecurity Additions (Personal R&D)](./docs/cybersecurity-additions.md)  # Link to your cert research
 
 ## About This Fork
