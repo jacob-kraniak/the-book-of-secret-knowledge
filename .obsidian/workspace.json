@@ -11,10 +11,14 @@
             "id": "069e5de5ec6fc88a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Contibuting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contibuting"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contibuting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Contibuting"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contibuting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Contibuting"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Contibuting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Contibuting"
             }
           },
           {
@@ -187,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec77f521918a14f",
+  "active": "069e5de5ec6fc88a",
   "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "Contibuting.md",
     "docs/tools/web-tools.md",
     "docs/tools/gui-tools.md",
     "docs/tools/cli-tools.md",
@@ -204,8 +213,6 @@
     "docs/my-contributions.md",
     "docs/manuals-howtos-tutorials.md",
     "docs/daily-knowledge-news.md",
-    "docs/cli-tools.md",
-    "collaboration_proposal.md",
-    "CONTRIBUTING.md"
+    "docs/cli-tools.md"
   ]
 }
