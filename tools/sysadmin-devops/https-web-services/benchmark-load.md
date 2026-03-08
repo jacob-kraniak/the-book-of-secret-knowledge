@@ -1,15 +1,17 @@
-**HTTP Benchmarking & Load Testing Tools** Tools for performance testing, load generation, latency measurement, and simulated stress/DoS on web servers.
+# ⚡ HTTP Benchmarking & Load Testing Tools
 
-|Name|Vendor/Webpage|GitHub Repo|Brief Description|Tags|Latest Commit|
-|---|---|---|---|---|---|
-|ab|[https://httpd.apache.org/](https://httpd.apache.org/)|—|Single-threaded CLI tool for benchmarking HTTP server performance.|[benchmark, http, apache, cli, c]|legacy|
-|siege|[https://www.joedog.org/siege-home/](https://www.joedog.org/siege-home/)|—|HTTP load testing and benchmarking utility.|[load, testing, benchmark, http, c]|~2025|
-|wrk|—|[wg/wrk](https://github.com/wg/wrk)|Modern HTTP benchmarking tool for high load generation.|[benchmark, http, load, c, lua]|~2025|
-|wrk2|—|[giltene/wrk2](https://github.com/giltene/wrk2)|Constant throughput, accurate latency-recording variant of wrk.|[benchmark, http, latency, c]|~2024|
-|vegeta|—|[tsenart/vegeta](https://github.com/tsenart/vegeta)|HTTP load testing with constant rate and latency measurement.|[benchmark, http, load, go]|~2026|
-|bombardier|—|[codesenberg/bombardier](https://github.com/codesenberg/bombardier)|Fast cross-platform HTTP benchmarking tool in Go.|[benchmark, http, load, go]|~2025|
-|gobench|—|[cmpxchg16/gobench](https://github.com/cmpxchg16/gobench)|HTTP/HTTPS load testing and benchmarking tool.|[benchmark, http, load, go]|~low activity|
-|hey|—|[rakyll/hey](https://github.com/rakyll/hey)|HTTP load generator, modern ApacheBench (ab) replacement.|[benchmark, http, load, go]|~2024|
-|boom|—|[tarekziade/boom](https://github.com/tarekziade/boom)|Quick smoke-test script for web app deployments.|[testing, http, smoke, python]|~low activity|
-|SlowHTTPTest|—|[shekyan/slowhttptest](https://github.com/shekyan/slowhttptest)|Simulates Application Layer DoS attacks via slow HTTP requests.|[dos, http, testing, security, c]|~2024|
-|h2spec|—|[summerwind/h2spec](https://github.com/summerwind/h2spec)|Conformance testing tool for HTTP/2 server implementations.|[http2, testing, conformance, go]|2020-08-04|
+Tools for performance testing, load generation, latency measurement, simulated high traffic, and stress / slow HTTP attack testing on web servers.
+
+| Name          | Vendor/Webpage                          | GitHub Repo                                          | Brief Description                                                                 | Tags                                      | Latest Commit    | Creation Date   | Stars                  |
+|---------------|-----------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------|------------------|-----------------|------------------------|
+| ab           | https://httpd.apache.org/              | —                                                    | Single-threaded CLI tool for basic HTTP server benchmarking.                      | benchmark, http, apache, cli, c           | legacy          | 1995            | —                      |
+| siege        | https://www.joedog.org/siege-home/     | —                                                    | HTTP load tester and benchmarking utility with concurrency support.               | load, testing, benchmark, http, c         | ~2025           | 1999            | —                      |
+| wrk          | —                                      | [wg/wrk](https://github.com/wg/wrk)                  | Modern high-performance HTTP benchmarking tool using evented I/O.                 | benchmark, http, load, cli, c, lua        | ~2025           | 2012-09-10      | 37.8k as of 2026-03    |
+| wrk2         | —                                      | [giltene/wrk2](https://github.com/giltene/wrk2)      | wrk variant with constant throughput and precise latency recording.               | benchmark, http, latency, cli, c          | ~2024           | 2015-03-20      | 4.1k as of 2026-03     |
+| vegeta       | —                                      | [tsenart/vegeta](https://github.com/tsenart/vegeta)  | Modern HTTP load tester with constant rate, latency histograms, and JSON output.  | benchmark, http, load, cli, go            | ~2026           | 2013-10-29      | 23.2k as of 2026-03    |
+| bombardier   | —                                      | [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | Fast cross-platform HTTP/1.x & HTTP/2 benchmarking tool written in Go.            | benchmark, http, load, cli, go            | ~2025           | 2016-02-14      | 5.6k as of 2026-03     |
+| gobench      | —                                      | [cmpxchg16/gobench](https://github.com/cmpxchg16/gobench) | Simple HTTP/HTTPS load testing and benchmarking tool in Go.                      | benchmark, http, load, cli, go            | low activity    | 2015-08-12      | ~1.1k as of 2026-03    |
+| hey          | —                                      | [rakyll/hey](https://github.com/rakyll/hey)          | Modern ApacheBench (ab) replacement; HTTP load generator with good concurrency.   | benchmark, http, load, cli, go            | ~2024           | 2015-11-20      | 17.4k as of 2026-03    |
+| boom         | —                                      | [tarekziade/boom](https://github.com/tarekziade/boom) | Quick HTTP smoke-test tool for web app deployments and simple load checks.        | testing, http, smoke, cli, python         | low activity    | 2012-04-15      | 1.3k as of 2026-03     |
+| SlowHTTPTest | —                                      | [shekyan/slowhttptest](https://github.com/shekyan/slowhttptest) | Application-layer DoS simulation via slow HTTP headers/requests/POSTs.            | dos, http, slowloris, testing, security, c | ~2024           | 2011-06-05      | 2.9k as of 2026-03     |
+| h2spec       | —                                      | [summerwind/h2spec](https://github.com/summerwind/h2spec) | Conformance testing suite for HTTP/2 server implementations.                      | http2, testing, conformance, cli, go      | 2020-08-04      | 2015-04-28      | 1.4k as of 2026-03     |
