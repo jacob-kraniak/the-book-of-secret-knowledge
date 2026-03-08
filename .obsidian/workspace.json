@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOP-Navigation-and-Layout.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOP-Navigation-and-Layout"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOP-Navigation-and-Layout.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOP-Navigation-and-Layout"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOP-Navigation-and-Layout.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SOP-Navigation-and-Layout"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOP-Navigation-and-Layout.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SOP-Navigation-and-Layout"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "README.md",
     "SOP-Navigation-and-Layout.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "tools/_INDEX.md",
     "documentation/INDEX.md",
