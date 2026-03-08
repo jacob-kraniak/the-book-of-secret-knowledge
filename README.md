@@ -287,27 +287,7 @@ All tool-list markdown files follow the structure and linking rules defined in [
 
 ##### :black_small_square: DNS
 
-<p>
-&nbsp;&nbsp; <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
-&nbsp;&nbsp; <a href="https://dnslookup.org/"><b>DNSLookup</b></a> - is an advanced DNS lookup tool.<br>
-&nbsp;&nbsp; <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online DNS investigation tool.<br>
-&nbsp;&nbsp; <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
-&nbsp;&nbsp; <a href="https://zonemaster.iis.se/en/"><b>Zonemaster</b></a> - helps you to control how your DNS works.<br>
-&nbsp;&nbsp; <a href="http://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
-&nbsp;&nbsp; <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
-&nbsp;&nbsp; <a href="https://dnsdumpster.com/"><b>DNSdumpster</b></a> - dns recon & research, find & lookup dns records.<br>
-&nbsp;&nbsp; <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
-&nbsp;&nbsp; <a href="https://intodns.com/"><b>intoDNS</b></a> - DNS and mail server health checker.<br>
-&nbsp;&nbsp; <a href="http://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
-&nbsp;&nbsp; <a href="https://www.buddyns.com/delegation-lab/"><b>BuddyDNS Delegation LAB</b></a> - check, trace and visualize delegation of your domain.<br>
-&nbsp;&nbsp; <a href="https://dnssec-debugger.verisignlabs.com/"><b>dnssec-debugger</b></a> - DS or DNSKEY records validator.<br>
-&nbsp;&nbsp; <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
-&nbsp;&nbsp; <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
-&nbsp;&nbsp; <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
-&nbsp;&nbsp; <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
-&nbsp;&nbsp; <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
-&nbsp;&nbsp; <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
-</p>
+
 
 ##### :black_small_square: Mail
 

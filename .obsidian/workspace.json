@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/security/pentest-recon-enum/pentest-arsenal.md",
-                "mode": "preview",
+                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pentest-arsenal"
+              "title": "web-dns-recon-tools"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/security/pentest-recon-enum/pentest-arsenal.md",
+                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pentest-arsenal"
+              "title": "Backlinks for web-dns-recon-tools"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/security/pentest-recon-enum/pentest-arsenal.md",
+                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pentest-arsenal"
+              "title": "Outgoing links from web-dns-recon-tools"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/security/pentest-recon-enum/pentest-arsenal.md",
+                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pentest-arsenal"
+              "title": "Outline of web-dns-recon-tools"
             }
           },
           {
@@ -197,6 +197,7 @@
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
     "README.md",
+    "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
     "tools/security/pentest-recon-enum/pentest-arsenal.md",
     "tools/INDEX.md",
     "SOP-Navigation-and-Layout.md",
@@ -222,7 +223,6 @@
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
     "tools/network-engineering/dns-dhc-ipam/dns-tools.md",
     "tools/tools - (migrate out)/gui-tools.md",
-    "tools/tools - (migrate out)/web-tools.md",
     "documentation/manuals-howtos-guides",
     "documentation",
     "tools/security/hardening-compliance",
