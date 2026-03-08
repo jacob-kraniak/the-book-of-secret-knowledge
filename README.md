@@ -19,35 +19,44 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 
 This is a living knowledge base of tools, techniques, one-liners, cheatsheets, and references — focused on security, networking, sysadmin, and devops. (LAST UPDATED 2026-03-07)
 
-## Repository Structure & Quick Navigation
+## Repository Structure
 
-```text
-the-book-of-secret-knowledge/
-├── documentation/              # Guides, one-liners, cheat sheets, learning material
-│   ├── [INDEX.md](./documentation/INDEX.md)                 ← category overview
-│   ├── learning-resources/
-│   ├── manuals-howtos-guides/
-│   └── other-cheat-sheets.md
-├── tools/                      # Main curated tool collections
-│   ├── [_INDEX.md](./tools/_INDEX.md)                       ← tools overview (rename suggestion: INDEX.md)
-│   ├── my-contributions.md
-│   ├── system-services.md
-│   ├── network-engineering/    # Diagnostics, DNS, routing
-│   ├── security/               # Pentest, recon, TLS, exploits
-│   └── sysadmin-devops/        # SSH, monitoring, shell productivity
-├── [TOOL-TABLE-SCHEMA.md](./TOOL-TABLE-SCHEMA.md)    # ← mandatory format for all tool tables
-├── [Contributing.md](./Contributing.md)
-└── [LICENSE.md](./LICENSE.md)
-```
+- **documentation/** — Guides, how-tos, one-liners, cheat sheets, learning resources
+  - [INDEX.md](./documentation/INDEX.md) — category overview
+  - learning-resources/
+    - [daily-knowledge-news.md](./documentation/learning-resources/daily-knowledge-news.md)
+  - manuals-howtos-guides/
+    - [shell-one-liners.md](./documentation/manuals-howtos-guides/shell-one-liners.md)
+    - [shell-tricks-functions.md](./documentation/manuals-howtos-guides/shell-tricks-functions.md)
+  - [other-cheat-sheets.md](./documentation/other-cheat-sheets.md)
+  - readme - to refactor.md (legacy — planned migration)
 
-| Category            | Description                                      | Entry Point                                                                       | Reference                                         |
-| ------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Tools – Overview    | All security/network/sysadmin tool lists         | [tools/_INDEX.md](https://grok.com/project/tools/_INDEX.md)                       | [Schema →](https://grok.com/TOOL-TABLE-SCHEMA.md) |
-| Network Engineering | Diagnostics, DNS/IPAM, BGP/OSPF/routing tools    | [tools/network-engineering/](https://grok.com/project/tools/network-engineering/) | —                                                 |
-| Security            | Recon, scanning, TLS/web sec, vuln/exploit tools | [tools/security/](https://grok.com/project/tools/security/)                       | —                                                 |
-| SysAdmin / DevOps   | Remote access, monitoring, terminal/shell utils  | [tools/sysadmin-devops/](https://grok.com/project/tools/sysadmin-devops/)         | —                                                 |
-| Documentation       | How-tos, one-liners, cheat sheets, daily reads   | [documentation/INDEX.md](https://grok.com/project/documentation/INDEX.md)         | —                                                 |
-| My Contributions    | Personally vetted / added tools & notes          | [tools/my-contributions.md](https://grok.com/project/tools/my-contributions.md)   | —                                                 |
+- **tools/** — Curated tool lists (security, networking, sysadmin, devops)
+  - [_INDEX.md](./tools/_INDEX.md) — tools overview (consider renaming → INDEX.md)
+  - [my-contributions.md](./tools/my-contributions.md) — personally added/favorited tools
+  - [system-services.md](./tools/system-services.md)
+  - network-engineering/
+    - diagnostics-troubleshooting/ — bandwidth, tracing, protocols, utilities
+    - dns-dhc-ipam/
+    - routing-bgp-ospf/
+  - security/
+    - pentest-recon-enum/ — packet capture, scanners, OSINT, threat intel
+    - [ssl-tls-web-security.md](./tools/security/ssl-tls-web-security.md)
+    - vuln-analysis-exploitation/ — packet crafting, exploit databases
+  - sysadmin-devops/
+    - https-web-services/ — benchmarking, browsers, inspectors, hardening
+    - system-monitoring-tracing/
+    - terminal-shell-productivity/ — shells, editors, file utils
+
+- Configuration & Meta
+  - [.github/](./.github/) — workflows, templates
+  - [.obsidian/](./.obsidian/) — optional personal vault config
+  - [.gitignore](./.gitignore)
+  - [.markdownlint.json](./.markdownlint.json) & [.markdownlintignore](./.markdownlintignore)
+  - [Contributing.md](./Contributing.md)
+  - [LICENSE.md](./LICENSE.md)
+  - [README.md](./README.md) ← you are here
+  - [TOOL-TABLE-SCHEMA.md](./TOOL-TABLE-SCHEMA.md) — standard format for tool tables
 ##### :black_small_square: SSL
 
 <p>
