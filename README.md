@@ -19,41 +19,25 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 
 This is a living knowledge base of tools, techniques, one-liners, cheatsheets, and references — focused on security, networking, sysadmin, and devops. (LAST UPDATED 2026-03-07)
 
+## Repository Structure & Quick Navigation
+
 ```text
 the-book-of-secret-knowledge/
-├── .github/                    # Workflows, issue templates, etc.
-├── .obsidian/                  # Optional Obsidian vault config (personal notes)
-├── documentation/              # Guides, how-tos, one-liners, cheat sheets
-│   ├── learning-resources/     # Daily knowledge, news, articles
-│   │   └── daily-knowledge-news.md
-│   ├── manuals-howtos-guides/  # Shell tricks, functions, practical guides
-│   │   ├── shell-one-liners.md
-│   │   └── shell-tricks-functions.md
-│   ├── other-cheat-sheets.md
-│   └── readme - to refactor.md   # (legacy — planned migration)
-├── tools/                      # Curated tool lists (following TOOL-TABLE-SCHEMA.md)
-│   ├── 00_index.md             # → planned rename to INDEX.md
-│   ├── my-contributions.md     # Personally added / heavily used tools
+├── documentation/              # Guides, one-liners, cheat sheets, learning material
+│   ├── [INDEX.md](./documentation/INDEX.md)                 ← category overview
+│   ├── learning-resources/
+│   ├── manuals-howtos-guides/
+│   └── other-cheat-sheets.md
+├── tools/                      # Main curated tool collections
+│   ├── [_INDEX.md](./tools/_INDEX.md)                       ← tools overview (rename suggestion: INDEX.md)
+│   ├── my-contributions.md
 │   ├── system-services.md
-│   ├── network-engineering/    # Diagnostics, DNS/IPAM, routing/BGP/OSPF
-│   │   ├── diagnostics-troubleshooting/   # Bandwidth tests, tracing, protocols
-│   │   ├── dns-dhc-ipam/
-│   │   └── routing-bgp-ospf/
-│   ├── security/               # Pentest, recon/enum, SSL/TLS, vuln/exploit
-│   │   ├── pentest-recon-enum/            # Packet capture, scanners, OSINT
-│   │   ├── ssl-tls-web-security.md
-│   │   └── vuln-analysis-exploitation/    # Packet crafting, exploit DBs
-│   └── sysadmin-devops/        # Remote access, monitoring, shell/terminal tools
-│       ├── https-web-services/            # Benchmark, browsers, inspectors
-│       ├── system-monitoring-tracing/
-│       └── terminal-shell-productivity/   # Shells, editors, file utils
-├── .gitignore
-├── .markdownlint.json
-├── .markdownlintignore
-├── Contributing.md
-├── LICENSE.md
-├── README.md                   # ← You are here
-└── TOOL-TABLE-SCHEMA.md        # Standard format for all tool-list .md files
+│   ├── network-engineering/    # Diagnostics, DNS, routing
+│   ├── security/               # Pentest, recon, TLS, exploits
+│   └── sysadmin-devops/        # SSH, monitoring, shell productivity
+├── [TOOL-TABLE-SCHEMA.md](./TOOL-TABLE-SCHEMA.md)    # ← mandatory format for all tool tables
+├── [Contributing.md](./Contributing.md)
+└── [LICENSE.md](./LICENSE.md)
 ```
 
 ##### :black_small_square: SSL
