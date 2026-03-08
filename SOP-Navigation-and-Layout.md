@@ -110,7 +110,3 @@ Example snippet (update paths as needed):
 Questions or deviations? Open an issue or PR referencing this SOP.
 
 Happy building!
-
-This SOP is self-contained, actionable, and reinforces the patterns we've established. Once added, link to it from the top-level README.md (e.g. in the Quick Access table or at the bottom: "See [SOP-Navigation-and-Layout.md](./SOP-Navigation-and-Layout.md) for layout standards").
-
-Let me know if you'd like tweaks (shorter version, more examples, move to a different location), or if the next step is generating INDEX.md for a specific subfolder like `tools/security/` or `tools/sysadmin-devops/`.
