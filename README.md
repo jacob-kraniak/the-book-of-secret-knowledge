@@ -54,6 +54,7 @@ the-book-of-secret-knowledge/
 ├── LICENSE.md
 ├── README.md                   # ← You are here
 └── TOOL-TABLE-SCHEMA.md        # Standard format for all tool-list .md files
+```
 
 ##### :black_small_square: SSL
 
