@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SOP-Navigation-and-Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6bdcf74dea1a2b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "SOP-Navigation-and-Layout"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SOP-Navigation-and-Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for SOP-Navigation-and-Layout"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SOP-Navigation-and-Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from SOP-Navigation-and-Layout"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SOP-Navigation-and-Layout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of SOP-Navigation-and-Layout"
             }
           },
           {
@@ -209,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bdcf74dea1a2b7e",
+  "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
     "README.md",
+    "SOP-Navigation-and-Layout.md",
     "conflict-files-obsidian-git.md",
     "tools/_INDEX.md",
     "documentation/INDEX.md",
@@ -237,7 +223,6 @@
     "tools/tools - (migrate out)/web-tools.md",
     "documentation/readme - to refactor.md",
     "documentation/manuals-howtos-guides/shell-tricks-functions.md",
-    "documentation/other-cheat-sheets.md",
     "documentation/manuals-howtos-guides",
     "documentation",
     "tools/security/hardening-compliance",
