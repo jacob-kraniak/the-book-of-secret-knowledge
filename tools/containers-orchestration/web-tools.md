@@ -1,0 +1,14 @@
+# Web / Management Tools
+
+| Name              | Vendor/Webpage                  | GitHub Repo                                               | Brief Description                                                  | Tags                                          | Latest Commit | Creation Date | Stars   |
+|-------------------|---------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------|---------------|---------------|---------|
+| Moby              | https://mobyproject.org/        | [moby/moby](https://github.com/moby/moby)                 | Collaborative project assembling container-based systems (Docker foundation). | container, runtime, ecosystem                 | 2026-03-05   | 2013-04-01   | 68.5k  |
+| Traefik           | https://traefik.io/             | [traefik/traefik](https://github.com/traefik/traefik)     | Modern HTTP reverse proxy / load balancer with dynamic config.     | reverse-proxy, load-balancer, docker, letsencrypt | 2026-03-08   | 2016-07-12   | 49.2k  |
+| Kong              | https://konghq.com/             | [Kong/kong](https://github.com/Kong/kong)                 | Cloud-native API gateway and microservices management layer.       | api-gateway, proxy, orchestration             | 2026-03-01   | 2015-03-10   | 39.1k  |
+| Rancher           | https://rancher.com/            | [rancher/rancher](https://github.com/rancher/rancher)     | Complete container management platform for Kubernetes clusters.   | kubernetes, management, orchestration         | 2026-03-04   | 2015-11-04   | 23.7k  |
+| Portainer         | https://www.portainer.io/       | [portainer/portainer](https://github.com/portainer/portainer) | Simple web UI for managing Docker and Kubernetes environments.    | docker, kubernetes, gui, management           | 2026-03-06   | 2016-05-23   | 32.4k  |
+| nginx-proxy       | —                               | [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy) | Automated nginx reverse proxy for Docker using docker-gen.        | reverse-proxy, docker, nginx                  | 2025-01-10   | 2014-07-15   | 17.3k  |
+| bunkerized-nginx  | https://bunkerized.io/          | [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) | Nginx Docker image secure-by-default with many hardening features. | nginx, security, docker                       | 2026-02-25   | 2020-06-18   | 3.4k   |
+
+↑ [Back to Containers & Orchestration Index](./INDEX.md)  
+↑ [Back to Tools](/tools/INDEX.md) | ↑ [Back to Root](/README.md)

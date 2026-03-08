@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
-                "mode": "source",
+                "file": "tools/containers-orchestration/INDEX.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/containers-orchestration/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/containers-orchestration/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/containers-orchestration/INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,6 +196,24 @@
   },
   "active": "903b0393c447bf77",
   "lastOpenFiles": [
+    "documentation/containers-orchestration/resources.md",
+    "documentation/learning-resources/daily-knowledge-news.md",
+    "documentation/containers-orchestration",
+    "documentation/Untitled.md",
+    "documentation/INDEX.md",
+    "documentation/other-cheat-sheets.md",
+    "documentation/manuals-howtos-guides/shell-tricks-functions.md",
+    "documentation/manuals-howtos-guides/shell-one-liners.md",
+    "README.md",
+    "tools/INDEX.md",
+    "SOP-Navigation-and-Layout.md",
+    "TOOL-TABLE-SCHEMA.md",
+    "tools/containers-orchestration/security.md",
+    "tools/containers-orchestration/web-tools.md",
+    "tools/containers-orchestration/cli-tools.md",
+    "tools/containers-orchestration/INDEX.md",
+    "tools/containers-orchestration",
+    "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
     "tools/security/vuln-analysis-exploitation/INDEX.md",
     "tools/security/vuln-analysis-exploitation/vuln-exploit-db.md",
     "tools/security/vuln-analysis-exploitation/Packet-crafting-manipulation.md",
@@ -205,23 +223,7 @@
     "tools/security/INDEX.md",
     "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
     "tools/security/Untitled.md",
-    "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
-    "tools/INDEX.md",
-    "documentation/INDEX.md",
     "tools/sysadmin-devops/system-monitoring-tracing/system-diagnostics-debuggers.md",
-    "tools/sysadmin-devops/Remote Access + SSH Clients.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
-    "README.md",
-    "tools/security/pentest-recon-enum/pentest-arsenal.md",
-    "SOP-Navigation-and-Layout.md",
-    "conflict-files-obsidian-git.md",
-    "tools/_INDEX.md",
-    "tools/security/pentest-recon-enum/Packet Capture & Analysis.md",
-    "tools/security/pentest-recon-enum/Recon & Threat Reputation.md",
-    "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
     "tools/sysadmin-devops/https-web-services",
     "documentation/manuals-howtos-guides",
     "documentation",
@@ -229,8 +231,6 @@
     "tools/network-engineering/diagnostics-troubleshooting/protocols-general",
     "docs/sysadmin-devops/ssh-remote-access",
     "tools/network-engineering/diagnostics-troubleshooting",
-    "tools/sysadmin-devops/system-monitoring-tracing",
-    "tools/network-engineering/routing-bgp-ospf",
-    "tools/network-engineering/dns-dhc-ipam"
+    "tools/sysadmin-devops/system-monitoring-tracing"
   ]
 }
