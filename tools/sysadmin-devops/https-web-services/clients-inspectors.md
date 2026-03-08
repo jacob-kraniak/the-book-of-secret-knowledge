@@ -1,12 +1,13 @@
-**HTTP Clients & Inspectors** 
+# 🔍 HTTP Clients & Inspectors
+
 Modern CLI clients and tools for crafting, inspecting, profiling, and troubleshooting HTTP/HTTPS requests.
 
-|Name|Vendor/Webpage|GitHub Repo|Brief Description|Tags|Latest Commit|
-|---|---|---|---|---|---|
-|curl|[https://curl.haxx.se/](https://curl.haxx.se/)|—|Command line tool and library for transferring data with URLs.|[http, client, cli, curl, c]|~2026|
-|kurly|—|[davidjpeacock/kurly](https://gitlab.com/davidjpeacock/kurly)|Alternative to curl written in Golang (low activity).|[http, client, go, alternative]|~2018|
-|HTTPie|—|[httpie/cli](https://github.com/httpie/cli)|User-friendly HTTP client with JSON support, colors, sessions.|[http, client, cli, modern, python]|2024-11-01|
-|wuzz|—|[asciimoo/wuzz](https://github.com/asciimoo/wuzz)|Interactive CLI tool for inspecting and crafting HTTP requests.|[http, inspector, tui, go]|~2025|
-|httpstat|—|[reorx/httpstat](https://github.com/reorx/httpstat)|Visualizes curl statistics with beautiful, clear timelines.|[http, stats, visualization, go]|~2020|
-|htrace.sh|—|[trimstray/htrace.sh](https://github.com/trimstray/htrace.sh)|Swiss Army knife script for HTTP/HTTPS troubleshooting/profiling.|[http, profiler, troubleshooting, bash]|~2025|
-|Hurl|[https://hurl.dev](https://hurl.dev/)|—|Run and test HTTP requests using plain-text definitions.|[http, testing, cli, hurl]|~2026|
+| Name      | Vendor/Webpage              | GitHub Repo                                          | Brief Description                                                                 | Tags                                      | Latest Commit    | Creation Date   | Stars                  |
+|-----------|-----------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------|------------------|-----------------|------------------------|
+| curl     | https://curl.se/           | —                                                    | Command line tool and library for transferring data with URLs supporting many protocols. | http, client, cli, curl, c                | 2026-01 (8.18.0) | 1996            | —                      |
+| kurly    | —                          | [davidjpeacock/kurly](https://github.com/davidjpeacock/kurly) | Alternative to curl written in Golang (low activity / possibly archived).         | http, client, cli, go, alternative        | ~2018           | ~2017           | — (low visibility)     |
+| HTTPie   | https://httpie.io/         | [httpie/cli](https://github.com/httpie/cli)          | User-friendly HTTP client with JSON support, syntax highlighting, sessions, plugins. | http, client, cli, modern, python         | 2024-12-17      | 2019-08-30      | 37.6k as of 2026-03    |
+| wuzz     | —                          | [asciimoo/wuzz](https://github.com/asciimoo/wuzz)    | Interactive CLI TUI tool for crafting and inspecting HTTP requests live.          | http, inspector, tui, cli, go             | ~2021           | ~2016           | 10.7k as of 2026-03    |
+| httpstat | —                          | [reorx/httpstat](https://github.com/reorx/httpstat)  | Visualizes curl timing statistics with beautiful timelines and breakdowns.        | http, stats, visualization, cli, python   | ~2020           | ~2016           | 6.3k as of 2026-03     |
+| htrace.sh| —                          | [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) | Swiss Army knife bash script for HTTP/HTTPS troubleshooting and profiling.        | http, profiler, troubleshooting, bash, cli| ~2025           | ~2018           | 3.9k as of 2026-03     |
+| Hurl     | https://hurl.dev/          | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) | Run and test HTTP requests defined in plain-text format; supports chaining and assertions. | http, testing, cli, hurl, rust            | ~2026           | ~2020           | — (check repo)         |
