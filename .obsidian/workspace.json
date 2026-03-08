@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+                "file": "tools/security/ssl-tls-web-security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web-dns-recon-tools"
+              "title": "ssl-tls-web-security"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+                "file": "tools/security/ssl-tls-web-security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for web-dns-recon-tools"
+              "title": "Backlinks for ssl-tls-web-security"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+                "file": "tools/security/ssl-tls-web-security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from web-dns-recon-tools"
+              "title": "Outgoing links from ssl-tls-web-security"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+                "file": "tools/security/ssl-tls-web-security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of web-dns-recon-tools"
+              "title": "Outline of ssl-tls-web-security"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
-    "README.md",
+    "tools/security/Untitled.md",
     "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+    "README.md",
     "tools/security/pentest-recon-enum/pentest-arsenal.md",
     "tools/INDEX.md",
     "SOP-Navigation-and-Layout.md",
@@ -207,7 +208,6 @@
     "tools/security/pentest-recon-enum/Packet Capture & Analysis.md",
     "tools/security/pentest-recon-enum/Recon & Threat Reputation.md",
     "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
-    "tools/security/Untitled.md",
     "tools/security/ssl-tls-web-security.md",
     "TOOL-TABLE-SCHEMA.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
