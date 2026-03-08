@@ -15,11 +15,7 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 
 **Forked on 2026-03-03** from [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) (MIT licensed, last major upstream activity ~2024).
 
-## Repository Structure Overview
-
-This is a living knowledge base of tools, techniques, one-liners, cheatsheets, and references — focused on security, networking, sysadmin, and devops. (LAST UPDATED 2026-03-07)
-
-## Repository Structure
+## Repository Table of Contents
 
 - **documentation/** — Guides, how-tos, one-liners, cheat sheets, learning resources
   - [INDEX.md](./documentation/INDEX.md) — category overview
