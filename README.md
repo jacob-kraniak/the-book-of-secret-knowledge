@@ -113,32 +113,6 @@ All tool-list markdown files follow the structure and linking rules defined in [
 &nbsp;&nbsp; <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
 </p>
 
-##### :black_small_square: System Diagnostics/Debuggers
-
-<p>
-&nbsp;&nbsp; <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
-&nbsp;&nbsp; <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
-&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
-&nbsp;&nbsp; <a href="https://github.com/brainsmoke/ptrace-burrito"><b>ptrace-burrito</b></a> - is a friendly wrapper around ptrace.<br>
-&nbsp;&nbsp; <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
-&nbsp;&nbsp; <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a> - high-level tracing language for Linux eBPF.<br>
-&nbsp;&nbsp; <a href="https://github.com/draios/sysdig"><b>sysdig</b></a> - system exploration and troubleshooting tool with first class support for containers.<br>
-&nbsp;&nbsp; <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
-&nbsp;&nbsp; <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
-&nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
-&nbsp;&nbsp; <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
-&nbsp;&nbsp; <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br>
-&nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
-&nbsp;&nbsp; <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
-&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
-&nbsp;&nbsp; <a href="http://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
-&nbsp;&nbsp; <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a> - convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br>
-&nbsp;&nbsp; <a href="https://github.com/mozilla/rr"><b>rr</b></a> - is a lightweight tool for recording, replaying and debugging execution of applications.<br>
-&nbsp;&nbsp; <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
-&nbsp;&nbsp; <a href="https://github.com/sharkdp/hexyl"><b>hexyl</b></a> - a command-line hex viewer.<br>
-&nbsp;&nbsp; <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
-</p>
-
 ##### :black_small_square: Databases
 
 <p>
