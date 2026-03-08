@@ -15,11 +15,45 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 
 **Forked on 2026-03-03** from [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) (MIT licensed, last major upstream activity ~2024).
 
+## Repository Structure Overview
 
+This is a living knowledge base of tools, techniques, one-liners, cheatsheets, and references — focused on security, networking, sysadmin, and devops. (LAST UPDATED 2026-03-07)
 
-##### :black_small_square: Network (HTTP)
-
-
+```text
+the-book-of-secret-knowledge/
+├── .github/                    # Workflows, issue templates, etc.
+├── .obsidian/                  # Optional Obsidian vault config (personal notes)
+├── documentation/              # Guides, how-tos, one-liners, cheat sheets
+│   ├── learning-resources/     # Daily knowledge, news, articles
+│   │   └── daily-knowledge-news.md
+│   ├── manuals-howtos-guides/  # Shell tricks, functions, practical guides
+│   │   ├── shell-one-liners.md
+│   │   └── shell-tricks-functions.md
+│   ├── other-cheat-sheets.md
+│   └── readme - to refactor.md   # (legacy — planned migration)
+├── tools/                      # Curated tool lists (following TOOL-TABLE-SCHEMA.md)
+│   ├── 00_index.md             # → planned rename to INDEX.md
+│   ├── my-contributions.md     # Personally added / heavily used tools
+│   ├── system-services.md
+│   ├── network-engineering/    # Diagnostics, DNS/IPAM, routing/BGP/OSPF
+│   │   ├── diagnostics-troubleshooting/   # Bandwidth tests, tracing, protocols
+│   │   ├── dns-dhc-ipam/
+│   │   └── routing-bgp-ospf/
+│   ├── security/               # Pentest, recon/enum, SSL/TLS, vuln/exploit
+│   │   ├── pentest-recon-enum/            # Packet capture, scanners, OSINT
+│   │   ├── ssl-tls-web-security.md
+│   │   └── vuln-analysis-exploitation/    # Packet crafting, exploit DBs
+│   └── sysadmin-devops/        # Remote access, monitoring, shell/terminal tools
+│       ├── https-web-services/            # Benchmark, browsers, inspectors
+│       ├── system-monitoring-tracing/
+│       └── terminal-shell-productivity/   # Shells, editors, file utils
+├── .gitignore
+├── .markdownlint.json
+├── .markdownlintignore
+├── Contributing.md
+├── LICENSE.md
+├── README.md                   # ← You are here
+└── TOOL-TABLE-SCHEMA.md        # Standard format for all tool-list .md files
 
 ##### :black_small_square: SSL
 
