@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Shells"
+              "title": "Terminal Emulators"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shells"
+              "title": "Backlinks for Terminal Emulators"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shells"
+              "title": "Outgoing links from Terminal Emulators"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shells"
+              "title": "Outline of Terminal Emulators"
             }
           },
           {
@@ -197,6 +197,7 @@
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
     "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
+    "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
     "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
     "tools/sysadmin-devops/https-web-services/security-hardening.md",
     "tools/sysadmin-devops/https-web-services/clients-inspectors.md",
@@ -208,7 +209,6 @@
     "tools/sysadmin-devops/https-web-services",
     "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
     "tools/network-engineering/dns-dhc-ipam/dns-tools.md",
     "tools/00_index.md",
     "tools/tools - (migrate out)/gui-tools.md",
