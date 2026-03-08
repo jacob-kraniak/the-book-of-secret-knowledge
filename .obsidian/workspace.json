@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8143d334d2f4476b",
+        "id": "71bd731fe7038a80",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2e89c682f5d2ef",
+            "id": "903b0393c447bf77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/security/ssl-tls-web-security.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ssl-tls-web-security"
+              "title": "New tab"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b2e89c682f5d2ef",
+  "active": "f3f577dcf6ffe86c",
   "lastOpenFiles": [
     "tools/security/Untitled.md",
     "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
