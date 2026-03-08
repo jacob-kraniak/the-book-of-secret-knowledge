@@ -40,6 +40,14 @@ the-book-of-secret-knowledge/
 └── [LICENSE.md](./LICENSE.md)
 ```
 
+| Category            | Description                                      | Entry Point                                                                       | Reference                                         |
+| ------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Tools – Overview    | All security/network/sysadmin tool lists         | [tools/_INDEX.md](https://grok.com/project/tools/_INDEX.md)                       | [Schema →](https://grok.com/TOOL-TABLE-SCHEMA.md) |
+| Network Engineering | Diagnostics, DNS/IPAM, BGP/OSPF/routing tools    | [tools/network-engineering/](https://grok.com/project/tools/network-engineering/) | —                                                 |
+| Security            | Recon, scanning, TLS/web sec, vuln/exploit tools | [tools/security/](https://grok.com/project/tools/security/)                       | —                                                 |
+| SysAdmin / DevOps   | Remote access, monitoring, terminal/shell utils  | [tools/sysadmin-devops/](https://grok.com/project/tools/sysadmin-devops/)         | —                                                 |
+| Documentation       | How-tos, one-liners, cheat sheets, daily reads   | [documentation/INDEX.md](https://grok.com/project/documentation/INDEX.md)         | —                                                 |
+| My Contributions    | Personally vetted / added tools & notes          | [tools/my-contributions.md](https://grok.com/project/tools/my-contributions.md)   | —                                                 |
 ##### :black_small_square: SSL
 
 <p>
