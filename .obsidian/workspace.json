@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
+                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
                 "mode": "source",
                 "source": true
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
+                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
+                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
+                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +196,8 @@
   },
   "active": "903b0393c447bf77",
   "lastOpenFiles": [
-    "tools/security/vuln-analysis-exploitation/vuln-exploit-db.md",
     "tools/security/vuln-analysis-exploitation/INDEX.md",
+    "tools/security/vuln-analysis-exploitation/vuln-exploit-db.md",
     "tools/security/vuln-analysis-exploitation/Packet-crafting-manipulation.md",
     "tools/security/vuln-analysis-exploitation/Packet.md",
     "tools/security/vuln-analysis-exploitation/ssl-tls-web-security.md",
