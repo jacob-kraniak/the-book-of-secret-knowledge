@@ -13,7 +13,7 @@ All tool/resource tables in this section **must** follow → [TOOL-TABLE-SCHEMA.
 - [Packet Capture & Analysis.md](./pentest-recon-enum/Packet%20Capture%20%26%20Analysis.md) — Wireshark-like tools, tcpdump variants, dissectors
 - [Port Scanners & Network Discovery.md](./pentest-recon-enum/Port%20Scanners%20%26%20Network%20Discovery.md) — Nmap forks, masscan, ZMap, unicornscan, etc.
 - [Recon & Threat Reputation.md](./pentest-recon-enum/Recon%20%26%20Threat%20Reputation.md) — OSINT, subdomain enum, ASN lookup, reputation APIs
-- [ssl-tls-web-security.md](./ssl-tls-web-security.md) — SSL/TLS testing, certificate analysis, protocol downgrade, misconfig scanners (moved or duplicated here?)
+- [ssl-tls-web-security.md](ssl-tls-web-security.md) — SSL/TLS testing, certificate analysis, protocol downgrade, misconfig scanners (moved or duplicated here?)
 
 </details>
 

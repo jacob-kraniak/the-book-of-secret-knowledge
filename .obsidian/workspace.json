@@ -196,6 +196,8 @@
   },
   "active": "903b0393c447bf77",
   "lastOpenFiles": [
+    "tools/security/vuln-analysis-exploitation/ssl-tls-web-security.md",
+    "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
     "tools/security/INDEX.md",
     "tools/security/Untitled.md",
     "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
@@ -208,8 +210,6 @@
     "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
     "README.md",
-    "tools/security/ssl-tls-web-security.md",
-    "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
     "tools/security/pentest-recon-enum/pentest-arsenal.md",
     "SOP-Navigation-and-Layout.md",
     "conflict-files-obsidian-git.md",

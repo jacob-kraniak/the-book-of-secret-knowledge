@@ -45,7 +45,7 @@ When ready: Plan to squash-merge or rebase + clean history into main.
       - [Packet Capture & Analysis.md](./tools/security/pentest-recon-enum/Packet%20Capture%20%26%20Analysis.md)
       - [Port Scanners & Network Discovery.md](./tools/security/pentest-recon-enum/Port%20Scanners%20%26%20Network%20Discovery.md)
       - [Recon & Threat Reputation.md](./tools/security/pentest-recon-enum/Recon%20%26%20Threat%20Reputation.md)
-    - [ssl-tls-web-security.md](./tools/security/ssl-tls-web-security.md)
+    - [ssl-tls-web-security.md](ssl-tls-web-security.md)
     - **vuln-analysis-exploitation/**
       - [Packet Crafting & Manipulation.md](./tools/security/vuln-analysis-exploitation/Packet%20Crafting%20%26%20Manipulation.md)
       - [Vulnerability & Exploit Databases.md](./tools/security/vuln-analysis-exploitation/Vulnerability%20%26%20Exploit%20Databases.md)
