@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Log Analyzers"
+              "title": "Shells"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log Analyzers"
+              "title": "Backlinks for Shells"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Log Analyzers"
+              "title": "Outgoing links from Shells"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
+                "file": "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log Analyzers"
+              "title": "Outline of Shells"
             }
           },
           {
@@ -196,6 +196,8 @@
   },
   "active": "9b2e89c682f5d2ef",
   "lastOpenFiles": [
+    "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
+    "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
     "tools/sysadmin-devops/https-web-services/security-hardening.md",
     "tools/sysadmin-devops/https-web-services/clients-inspectors.md",
     "tools/sysadmin-devops/https-web-services/browsers.md",
@@ -207,7 +209,6 @@
     "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Shells.md",
-    "tools/sysadmin-devops/terminal-shell-productivity/Files & Directories.md",
     "tools/network-engineering/dns-dhc-ipam/dns-tools.md",
     "tools/00_index.md",
     "tools/tools - (migrate out)/gui-tools.md",
@@ -225,7 +226,6 @@
     "tools/network-engineering/diagnostics-troubleshooting/Bandwidth & Performance Testing.md",
     "tools/security/hardening-compliance",
     "tools/network-engineering/diagnostics-troubleshooting/Tracing & Diagnostics.md",
-    "docs/sysadmin-devops/system-monitoring-tracing/Untitled.md",
     "tools/network-engineering/diagnostics-troubleshooting/protocols-general",
     "docs/sysadmin-devops/ssh-remote-access",
     "tools/network-engineering/diagnostics-troubleshooting",
