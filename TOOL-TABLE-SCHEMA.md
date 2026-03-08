@@ -19,7 +19,6 @@ Use this exact column order and formatting for all tool lists in the repository.
 
 - **Creation Date** is especially valuable for legacy / classic Unix tools, early security utilities, and projects from the 1990s–early 2000s to give historical perspective.
 - **Stars** provides at-a-glance community adoption signal — useful for readers new to the field who want to prioritize widely trusted tools.
-- Star counts change over time → include an "as of" month/year when the value was last verified (can be updated during periodic repo maintenance sweeps).
 - When adding or updating entries, fetch Creation Date and Stars directly from the GitHub repo page or API if possible.
 - For extremely old projects without GitHub presence (e.g. original tcpdump releases, early versions of OpenSSH), prefer the initial public release year in Creation Date and leave Stars as `—`.
 
@@ -27,6 +26,6 @@ Use this exact column order and formatting for all tool lists in the repository.
 
 | Name | Vendor/Webpage | GitHub Repo | Brief Description | Tags | Latest Commit | Creation Date | Stars |
 |------|----------------|-------------|-------------------|------|---------------|---------------|-------|
-| Vim  | —              | [vim/vim](https://github.com/vim/vim) | Highly configurable text editor for efficiently creating and changing any kind of text. | editor, text, cli, sysadmin, c | 2026-03-01 (v9.1 patch) | 1991-11-02 | 35.4k as of 2026-03 |
+| Vim  | —              | [vim/vim](https://github.com/vim/vim) | Highly configurable text editor for efficiently creating and changing any kind of text. | editor, text, cli, sysadmin, c | 2026-03-01 (v9.1 patch) | 1991-11-02 | 35.4k |
 
 This format keeps tables readable, adds meaningful context without clutter, and aligns with the goal of making the book more educational for beginners while respecting the heritage of many tools listed.
