@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/security/INDEX.md",
+                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "INDEX"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/security/INDEX.md",
+                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/security/INDEX.md",
+                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/security/INDEX.md",
+                "file": "tools/security/vuln-analysis-exploitation/INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,9 +196,14 @@
   },
   "active": "903b0393c447bf77",
   "lastOpenFiles": [
+    "tools/security/vuln-analysis-exploitation/vuln-exploit-db.md",
+    "tools/security/vuln-analysis-exploitation/INDEX.md",
+    "tools/security/vuln-analysis-exploitation/Packet-crafting-manipulation.md",
+    "tools/security/vuln-analysis-exploitation/Packet.md",
     "tools/security/vuln-analysis-exploitation/ssl-tls-web-security.md",
-    "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
+    "tools/security/pentest-recon-enum/INDEX.md",
     "tools/security/INDEX.md",
+    "tools/security/pentest-recon-enum/web-dns-recon-tools.md",
     "tools/security/Untitled.md",
     "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
     "tools/INDEX.md",
@@ -217,11 +222,6 @@
     "tools/security/pentest-recon-enum/Packet Capture & Analysis.md",
     "tools/security/pentest-recon-enum/Recon & Threat Reputation.md",
     "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",
-    "TOOL-TABLE-SCHEMA.md",
-    "tools/sysadmin-devops/system-monitoring-tracing/Log Analyzers.md",
-    "tools/sysadmin-devops/https-web-services/security-hardening.md",
-    "tools/sysadmin-devops/https-web-services/clients-inspectors.md",
-    "tools/sysadmin-devops/https-web-services/browsers.md",
     "tools/sysadmin-devops/https-web-services",
     "documentation/manuals-howtos-guides",
     "documentation",
