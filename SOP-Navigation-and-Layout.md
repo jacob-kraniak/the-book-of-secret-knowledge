@@ -55,7 +55,7 @@ All tool tables in this section follow → [TOOL-TABLE-SCHEMA.md](../TOOL-TABLE-
   - [another.md](./another.md)
 
 ## Quick Navigation
-- ↑ [Back to Parent Index](../INDEX.md) (or `../_INDEX.md` for legacy)
+- ↑ [Back to Parent Index](tools/INDEX.md) (or `../_INDEX.md` for legacy)
 - ↑ [Back to Tools Root](../_INDEX.md)  (adjust level as needed)
 - ↑ [Repository Root](../../README.md)
 
