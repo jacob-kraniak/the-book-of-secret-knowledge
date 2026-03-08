@@ -90,24 +90,6 @@ When ready: Plan to squash-merge or rebase + clean history into main.
 | Tool Table Format           | Schema used in every tool list                     | [TOOL-TABLE-SCHEMA.md](./TOOL-TABLE-SCHEMA.md)                              |
 
 All tool-list markdown files follow the structure and linking rules defined in [TOOL-TABLE-SCHEMA.md](./TOOL-TABLE-SCHEMA.md).
-##### :black_small_square: SSL
-
-<p>
-&nbsp;&nbsp; <a href="https://www.openssl.org/"><b>openssl</b></a> - is a robust, commercial-grade, and full-featured toolkit for the TLS and SSL protocols.<br>
-&nbsp;&nbsp; <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
-&nbsp;&nbsp; <a href="https://github.com/nabla-c0d3/sslyze"><b>sslyze
-</b></a> - fast and powerful SSL/TLS server scanning library.<br>
-&nbsp;&nbsp; <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
-&nbsp;&nbsp; <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
-&nbsp;&nbsp; <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
-&nbsp;&nbsp; <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
-&nbsp;&nbsp; <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
-&nbsp;&nbsp; <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
-&nbsp;&nbsp; <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
-&nbsp;&nbsp; <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
-&nbsp;&nbsp; <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
-&nbsp;&nbsp; <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
-</p>
 
 ##### :black_small_square: Security
 
