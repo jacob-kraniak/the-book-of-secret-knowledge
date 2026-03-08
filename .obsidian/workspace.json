@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "tools/INDEX.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "INDEX"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+                "file": "tools/INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +196,9 @@
   },
   "active": "903b0393c447bf77",
   "lastOpenFiles": [
-    "tools/sysadmin-devops/system-monitoring-tracing/system-diagnostics-debuggers.md",
+    "documentation/INDEX.md",
     "tools/sysadmin-devops/system-monitoring-tracing/INDEX.md",
+    "tools/sysadmin-devops/system-monitoring-tracing/system-diagnostics-debuggers.md",
     "tools/sysadmin-devops/Remote Access + SSH Clients.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Text Editors.md",
     "tools/sysadmin-devops/terminal-shell-productivity/Terminal Emulators.md",
@@ -212,7 +213,6 @@
     "SOP-Navigation-and-Layout.md",
     "conflict-files-obsidian-git.md",
     "tools/_INDEX.md",
-    "documentation/INDEX.md",
     "tools/security/pentest-recon-enum/Packet Capture & Analysis.md",
     "tools/security/pentest-recon-enum/Recon & Threat Reputation.md",
     "tools/security/pentest-recon-enum/Port Scanners & Network Discovery.md",

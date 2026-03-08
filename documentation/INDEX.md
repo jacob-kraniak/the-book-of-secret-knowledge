@@ -1,15 +1,25 @@
-# Documentation & Resources
+# Documentation Index
 
-Guides, how-tos, one-liners, cheat sheets, learning resources.
+Guides, cheat sheets, how-tos, manuals, learning resources, and reference material for operators, pentesters, and developers.
 
-## Available Sections
+All tool/resource tables in this section follow → [TOOL-TABLE-SCHEMA.md](../TOOL-TABLE-SCHEMA.md)
 
-| Section                        | Description                                      | Link                                                      |
-|--------------------------------|--------------------------------------------------|-----------------------------------------------------------|
-| Learning Resources             | Daily knowledge, news, articles                  | [learning-resources/INDEX.md](./learning-resources/INDEX.md) |
-| Manuals / HowTos / Guides      | Shell tricks, one-liners, functions              | [manuals-howtos-guides/INDEX.md](./manuals-howtos-guides/INDEX.md) |
-| Other Cheat Sheets             | General / miscellaneous reference sheets         | [other-cheat-sheets.md](./other-cheat-sheets.md)          |
+## Contents
 
-→ Migrate content from `readme - to refactor.md` into relevant sections or delete after migration.
+**learning-resources** — daily/ongoing knowledge sources, news aggregators, blogs worth following
+- [daily-knowledge-news.md](./learning-resources/daily-knowledge-news.md) — curated feed of daily security/dev/ops articles & updates
 
-Last updated: March 2026
+**manuals-howtos-guides** — practical shell, CLI, and workflow manuals
+- [shell-one-liners.md](./manuals-howtos-guides/shell-one-liners.md) — concise, copy-paste shell commands for common tasks
+- [shell-tricks-functions.md](./manuals-howtos-guides/shell-tricks-functions.md) — advanced functions, patterns, and productivity tricks
+
+**Other files**
+- [other-cheat-sheets.md](./other-cheat-sheets.md) — miscellaneous / uncategorized cheat sheets
+- [readme - to refactor.md](./readme%20-%20to%20refactor.md) — legacy notes (refactor pending)
+
+## Quick Navigation
+
+- ↑ [Back to Repository Root](../README.md)
+- → [Tools Overview](../tools/INDEX.md)
+- → [Schema Rules](../TOOL-TABLE-SCHEMA.md)
+- → [Navigation SOP](../SOP-Navigation-and-Layout.md)
