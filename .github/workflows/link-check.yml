@@ -1,20 +1,29 @@
-name: Markdown Link Check
+name: Check Markdown Links
 
 on:
   push:
-    branches: [ "*" ]
+    branches: [ "JK_Revisions" ]
   pull_request:
-    branches: [ master ]
+    branches: [ "JK_Revisions" ]
+  schedule:
+    - cron: "0 12 * * 1"  # Weekly on Mondays at 12:00 UTC
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Markdown Link Checker
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           use-verbose-mode: "yes"
-          check-modified-files-only: "no"          # full scan first time
-          folder-path: '.'                         # whole repo
-          file-extension: '.md'
-          config-file: '.markdown-link-check.json' # optional later
+          check-modified-files-only: "false"
+          folder-path: "."
+          file-extension: ".md"
+          config-file: ".markdown-link-check.json"  # Create this for ignores
+          max-depth: 2                              # Adjust as needed
