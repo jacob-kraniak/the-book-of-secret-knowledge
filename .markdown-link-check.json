@@ -1,0 +1,16 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https?://stackoverflow.com" },
+    { "pattern": "^https?://github.com/.*compare" },
+    { "pattern": "^#" },
+    { "pattern": "\\.md$" },
+    { "pattern": "^https?://(www\\.)?github.com" }
+  ],
+  "replacementPatterns": [],
+  "timeout": "10s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "httpHeaders": [
+    { "name": "User-Agent", "value": "markdown-link-check" }
+  ]
+}
