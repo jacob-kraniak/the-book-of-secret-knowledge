@@ -1,0 +1,33 @@
+name: Update TOC
+
+on:
+  push:
+    branches: [ JK_Revisions ]
+    paths:
+      - '**.md'           # Trigger on any markdown change
+
+jobs:
+  update-toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Important for commit history
+
+      - name: Install doctoc
+        run: npm install -g doctoc
+
+      - name: Run doctoc on README and INDEX files
+        run: |
+          doctoc README.md
+          doctoc tools/_INDEX.md          # or tools/INDEX.md after rename
+          doctoc documentation/INDEX.md
+          # Add more files as needed, e.g.:
+          # doctoc tools/security/INDEX.md
+
+      - name: Commit changes if any
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update TOC [skip ci]"
+          branch: JK_Revisions
+          skip_dirty_check: false

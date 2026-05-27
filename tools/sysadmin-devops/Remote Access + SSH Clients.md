@@ -1,0 +1,6 @@
+|Name|Vendor/Webpage|GitHub Repo|Brief Description|Tags|Latest Commit|
+|---|---|---|---|---|---|
+|PuTTY|[https://www.putty.org/](https://www.putty.org/)|— (official mirrors; e.g. [github/putty](https://github.com/github/putty) archived)|SSH and telnet client with GUI, key auth, tunneling, and session management.|[ssh, client, telnet, gui, windows]|~2023 (archived; forks active)|
+|Mosh|[https://mosh.org/](https://mosh.org/)|[mobile-shell/mosh](https://github.com/mobile-shell/mosh)|SSH wrapper for persistent, roaming sessions over intermittent connections with predictive local echo.|[ssh, remote, persistent, roaming, cli]|~2022 (stable; occasional fixes)|
+|Eternal Terminal|[https://eternalterminal.dev/](https://eternalterminal.dev/)|[MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)|Reconnectable SSH-like shell with mouse/tmux support and low-latency over unstable links.|[ssh, remote, reconnect, tmux, cli]|~Feb 2026 (recent fixes)|
+|mRemoteNG|[https://mremoteng.org/](https://mremoteng.org/)|— (source on SourceForge/GitHub mirrors)|Multi-tabbed, tabbed remote connection manager (fork of mRemote) supporting SSH, RDP, VNC.|[remote, manager, multi-protocol, gui, windows]|Active (ongoing releases)|

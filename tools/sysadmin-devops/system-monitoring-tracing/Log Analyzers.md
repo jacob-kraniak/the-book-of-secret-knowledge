@@ -1,0 +1,10 @@
+# 📊 Log Analyzers
+
+CLI tools for parsing, viewing, aggregating, real-time monitoring, and analyzing log files/streams (general, web server, nginx-specific).
+
+| Name            | Vendor/Webpage              | GitHub Repo                                          | Brief Description                                                                 | Tags                                      | Latest Commit    | Creation Date   | Stars                  |
+|-----------------|-----------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------|------------------|-----------------|------------------------|
+| angle-grinder  | —                          | [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) | CLI tool to parse, aggregate, compute stats (sum/avg/percentiles), and slice/dice logs in real time (JSON/logfmt/generic). | log-analysis, cli, aggregation, real-time, rust | 2025-03-29      | ~2018           | 3.7k as of 2026-03     |
+| lnav           | https://lnav.org/          | [tstack/lnav](https://github.com/tstack/lnav)        | Advanced terminal log navigator with auto-format detection, merging, tailing, search, filtering, SQLite queries, and TUI. | log-analysis, cli, tui, viewer, search, sqlite, c++ | 2026-03-07      | 2009-09-13      | 9.7k as of 2026-03     |
+| GoAccess       | https://goaccess.io/       | [allinurl/goaccess](https://github.com/allinurl/goaccess) | Real-time interactive terminal/web analyzer for HTTP access logs (visitors, requests, bandwidth, referrers; HTML/JSON/CSV output). | log-analysis, cli, real-time, web-logs, http, analytics, viewer, c | 2026-03-03      | 2009            | 20.3k as of 2026-03    |
+| ngxtop         | —                          | [lebinh/ngxtop](https://github.com/lebinh/ngxtop)    | Real-time top-like metrics viewer for nginx (and compatible) access logs (requests, status, upstreams, bandwidth). | log-analysis, cli, real-time, nginx, web-logs, monitoring, python | 2026-03-01      | 2014-03-24      | 6.5k as of 2026-03     |
